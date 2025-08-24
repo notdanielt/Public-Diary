@@ -1,0 +1,50 @@
+body {
+    color: #fff4;
+    background-color: #204;
+    text-shadow: 0 0 0.5rem black;
+    font-family: "Lexend", sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 5rem;
+    background-image: url('Grid.png');
+    background-size: 5rem;
+    animation: scroll 3s infinite linear;
+    margin: 0;
+}
+html::before {
+    box-sizing: border-box;
+    content: "";
+    box-shadow: 0 0 10rem black inset;
+    height: 100vh;
+    pointer-events: none;
+    position: fixed;
+    width: 100vw;
+}
+@keyframes scroll {
+    100% {background-position: 5rem 5rem;}
+}
+hr {
+    color: #fffa;
+    box-shadow: 0 0 0.5rem black;
+    width: 100%;
+    margin: 2rem;
+}
+table {
+    border-spacing: 0.5rem;
+    margin: auto;
+}
+td {
+    border-radius: 0.35rem;
+    box-shadow: 0 0 0.5rem #0008;
+    border: 2px solid #0004;
+    height: 3rem;
+    width: 3rem;
+}
+h1 {
+    margin: 0 0 1rem 0;
+    color: white;
+}
+h2 {
+    margin: 0 0 1rem 0;
+    color: #80f;
+}
