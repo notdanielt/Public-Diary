@@ -1,7 +1,7 @@
 //NOTE: This list is ordered inversely by week. For example, [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] would become [15,16,17,18,19,20,21,8,9,10,11,12,13,14,1,2,3,4,5,6,7].
 data = [
     //[[2025, 8, 31], 5, "", ""],
-    //[[2025, 9, 1], -1, "", ""],
+    //[[2025, 9, 1], 5, "", ""],
     //[[2025, 9, 2], -1, "", ""],
     //[[2025, 9, 3], -1, "", ""],
     //[[2025, 9, 4], -1, "", ""],
@@ -13,5 +13,5 @@ data = [
     [[2025, 8, 27], 5, "Awake: 6:00 AM to 8:20 PM, showered, no exercise", "It has begun.\n\nBut seriously, today was the first day of high school, and it felt relatively surreal (as to be expected...). I won't go into too much detail here, but it being the first day doesn't give it any bonus points. However, high school could go into any direction from here, and that thought was stuck in my head for the whole day. The reason I went to bed so early was because I was just genuinely tired, not to catch up on sleep."],
     [[2025, 8, 28], 4, "Awake: 6:20 AM to 10:30 PM, no shower, no exercise", "A bit worse than yesterday, but still alright. The reason this is 4/10 is because of an awkward moment that happened in Spanish class. Other than that, there's not much to elaborate on, unfortunately. I didn't really do much today other than idle on Youtube, so this is going to have to be the end of the description."],
     [[2025, 8, 29], 3, "Awake: 6:00 AM to 11:00 PM, no shower, no exercise", "Ok, this isn't fun anymore. Nearly every class had something wrong happen. Would be 2/10 if things didn't get better at home, and also it's Friday, so it's time for the first weekend of high school! But anyway, the reason the school day was bad today was mainly because of 2 things: the work is getting obscenely difficult for just the 3rd day of school, and I sometimes just lose my ability to talk when I'm asked questions. I was also really tired, which could've contributed. But yeah, that's it, hopefully tomorrow is better."],
-    //[[2025, 8, 30], 5, "", ""],
+    [[2025, 8, 30], 6, "Awake: 9:00 AM to 1:00 AM, no shower, no exercise", "It was looking normal at first, but then a bunch of banger videos dropped, and then I did my Math homework on top of that! Definitely a good day, but nothing much else happened, so it's just going to be a 6/10. Still much better than yesterday for sure."],
 ];
