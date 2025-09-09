@@ -1,7 +1,7 @@
 //NOTE: This list is ordered inversely by week. For example, [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] would become [15,16,17,18,19,20,21,8,9,10,11,12,13,14,1,2,3,4,5,6,7].
 data = [
-    //[[2025, 9, 7], -1, "", ""],
-    //[[2025, 9, 8], -1, "", ""],
+    [[2025, 9, 7], 5, "Awake: 9:00 AM to 10:20 PM, showered, no exercise", "While I was pretty productive today, finishing the rest of my homework, an internet incident occurred and I was left without signal for about 8 hours. These canceled out and made the day a 5/10. I forgot to write this description going to bed (not the first time this has happened), so I don't remember much else."],
+    [[2025, 9, 8], 6, "Awake: 6:00 AM to 9:40 PM, no shower, no exercise", "It's the first full week of school, and I put a newly acquired skill to use. If I force myself to stay awake instead of going with the more pleasant, yet worse alernative, I can remedy about half of my tiredness, and it really helped me focus. Every class went well today, as a direct result of this, and I hope I'll continue making progress!\n\n(I'm noticing a pattern: most good days end with a motivational phrase ending in an exclamation mark, while average and bad ones end in periods. This isn't really important, but I felt I should point it out.)"],
     //[[2025, 9, 9], -1, "", ""],
     //[[2025, 9, 10], -1, "", ""],
     //[[2025, 9, 11], -1, "", ""],
