@@ -2,8 +2,8 @@
 data = [
     [[2025, 9, 7], 5, "Awake: 9:00 AM to 10:20 PM, showered, no exercise", "While I was pretty productive today, finishing the rest of my homework, an internet incident occurred and I was left without signal for about 8 hours. These canceled out and made the day a 5/10. I forgot to write this description going to bed (not the first time this has happened), so I don't remember much else."],
     [[2025, 9, 8], 6, "Awake: 6:00 AM to 10:00 PM, no shower, no exercise", "It's the first full week of school, and I put a newly acquired skill to use. If I force myself to stay awake instead of going with the more pleasant, yet worse alernative, I can remedy about half of my tiredness, and it really helped me focus. Every class went well today, as a direct result of this, and I hope I'll continue making progress!\n\n(I'm noticing a pattern: most good days end with a motivational phrase ending in an exclamation mark, while average and bad ones end in periods. This isn't really important, but I felt I should point it out.)"],
-    //[[2025, 9, 9], -1, "", ""],
-    //[[2025, 9, 10], -1, "", ""],
+    [[2025, 9, 9], 5, "Awake: 6:00 AM to 9:50 PM, no shower, no exercise", "Honestly, I forgot what happened today. I'd imagine it was mid though."],
+    [[2025, 9, 10], 4, "Awake: 6:00 AM to 10:20 PM, no shower, no exercise", "Yeah, I think I'm going to stop pressuring myself to make these descripions as long as normal. I was pretty tired today, didn't get anything done, and that's it."],
     //[[2025, 9, 11], -1, "", ""],
     //[[2025, 9, 12], -1, "", ""],
     //[[2025, 9, 13], -1, "", ""],
