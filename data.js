@@ -4,7 +4,7 @@ data = [
     [[2025, 9, 8], 6, "Awake: 6:00 AM to 10:00 PM, no shower, no exercise", "It's the first full week of school, and I put a newly acquired skill to use. If I force myself to stay awake instead of going with the more pleasant, yet worse alernative, I can remedy about half of my tiredness, and it really helped me focus. Every class went well today, as a direct result of this, and I hope I'll continue making progress!"],
     [[2025, 9, 9], 5, "Awake: 6:00 AM to 9:50 PM, no shower, no exercise", "Honestly, I forgot what happened today. I'd imagine it was mid though."],
     [[2025, 9, 10], 4, "Awake: 6:00 AM to 10:20 PM, no shower, no exercise", "Yeah, I think I'm going to stop pressuring myself to make these descripions as long as normal. I was pretty tired today, didn't get anything done, and that's it."],
-    [[2025, 9, 11], -1, "", ""],
+    [[2025, 9, 11], 4, "Awake: 6:00 AM to 9:50 PM, no shower, no exercise", "Another not-so-great day. At least Friday is tomorrow, but I really hope that I'll eventually overcome the same issues that keep making my days worse..."],
     [[2025, 9, 12], -1, "", ""],
     [[2025, 9, 13], -1, "", ""],
     [[2025, 8, 31], 5, "Awake: 10:00 AM to 10:20 PM, no shower, no exercise", "I'm not gonna sugarcoat it: nothing of value actually happened today. More stuff will happen tomorrow for sure, but for now, this will be the shortest description."],
