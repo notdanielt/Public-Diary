@@ -5,7 +5,7 @@ data = [
     [[2025, 9, 9], 5, "Awake: 6:00 AM to 9:50 PM, no shower, no exercise", "Honestly, I forgot what happened today. I'd imagine it was mid though."],
     [[2025, 9, 10], 4, "Awake: 6:00 AM to 10:20 PM, no shower, no exercise", "Yeah, I think I'm going to stop pressuring myself to make these descripions as long as normal. I was pretty tired today, didn't get anything done, and that's it."],
     [[2025, 9, 11], 4, "Awake: 6:00 AM to 9:50 PM, no shower, no exercise", "Another not-so-great day. At least Friday is tomorrow, but I really hope that I'll eventually overcome the same issues that keep making my days worse..."],
-    [[2025, 9, 12], -1, "", ""],
+    [[2025, 9, 12], 5, "Awake: 6:00 AM to 12:00 AM, showered, exercised", "The school day was bad, especially the second half (due to Health class), but then I did quite a lot when I got home, hence the shower and exercise! I haven't truly exercised in a really long time, so it's nice to do it again. These effects cancel out, so today was average."],
     [[2025, 9, 13], -1, "", ""],
     [[2025, 8, 31], 5, "Awake: 10:00 AM to 10:20 PM, no shower, no exercise", "I'm not gonna sugarcoat it: nothing of value actually happened today. More stuff will happen tomorrow for sure, but for now, this will be the shortest description."],
     [[2025, 9, 1], 4, "Awake: 8:00 AM to 10:10 PM, no shower, no exercise", "I really wanted to do a lot today, but I ended up just not. I thought about doing homework around 11:00 AM, but it ended up causing a negative reaction that repelled me from doing any homework for the rest of the day (and is also the reason that today was a 4). Anyway, now that August is over, it's time to really begin..."],
