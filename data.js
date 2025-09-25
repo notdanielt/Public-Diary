@@ -3,7 +3,7 @@ data = [
     [[2025, 9, 21], 6, "Awake: 9:00 AM to 9:50 PM, showered, exercised", "Well, today was definitely something. Not only did I do all my homework, but I went for a run, THEN got a haircut, THEN took a shower! This chain of events is still very rare to me, especially with the homework grouped in today as well. Hopefully Monday won't ruin the mood."],
     [[2025, 9, 22], 5, "Awake: 6:00 AM to 10:30 PM, no shower, no exercise", "Stayed up a little too late; other than that, nothing much to add. Today wasn't particularly interesting."],
     [[2025, 9, 23], 4, "Awake: 6:00 AM to 10:20 PM, no shower, no exercise", "Slightly worse than yesterday; didn't finish any of my homework, as well as a subpar school day."],
-    [[2025, 9, 24], -1, "", ""],
+    [[2025, 9, 24], 5, "Awake: 6:00 AM to 10:10 PM, no shower, no exercise", "Slightly better than yesterday; I still didn't finish any of my homework, nor did anything productive, but the school day was fine."],
     [[2025, 9, 25], -1, "", ""],
     [[2025, 9, 26], -1, "", ""],
     [[2025, 9, 27], -1, "", ""],
