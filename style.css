@@ -1,5 +1,5 @@
 body {
-    color: #fff4;
+    color: #0004;
     background-color: #0fa;
     text-shadow: 0 0 0.5rem black;
     font-family: "Lexend", sans-serif;
@@ -14,7 +14,7 @@ body {
 html::before {
     box-sizing: border-box;
     content: "";
-    box-shadow: 0 0 10rem black inset;
+    box-shadow: 0 0 5rem black inset;
     height: 100vh;
     pointer-events: none;
     position: fixed;
@@ -24,8 +24,8 @@ html::before {
     100% {background-position: 5rem 5rem;}
 }
 hr {
-    color: #fffa;
-    box-shadow: 0 0 0.5rem black;
+    color: #0008;
+    box-shadow: 0 0 0.5rem #0008;
     width: 100%;
     margin: 2rem;
 }
