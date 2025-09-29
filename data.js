@@ -1,12 +1,12 @@
 //NOTE: This list is ordered inversely by week. For example, [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] would become [15,16,17,18,19,20,21,8,9,10,11,12,13,14,1,2,3,4,5,6,7].
 data = [
     [[2025, 9, 28], 5, "Awake: 9:00 AM to 9:40 PM, no shower, no exercise", "Nothing much happened today. I did my homework, but other than that, I basically just idled around without doing anything significantly notable. I need to start being more productive at some point."],
-    //[[2025, 9, 29], -1, "", ""],
-    //[[2025, 9, 30], -1, "", ""],
-    //[[2025, 10, 1], -1, "", ""],
-    //[[2025, 10, 2], -1, "", ""],
-    //[[2025, 10, 3], -1, "", ""],
-    //[[2025, 10, 4], -1, "", ""],
+    [[2025, 9, 29], -1, "", ""],
+    [[2025, 9, 30], -1, "", ""],
+    [[2025, 10, 1], -1, "", ""],
+    [[2025, 10, 2], -1, "", ""],
+    [[2025, 10, 3], -1, "", ""],
+    [[2025, 10, 4], -1, "", ""],
     [[2025, 9, 21], 6, "Awake: 9:00 AM to 9:50 PM, showered, exercised", "Well, today was definitely something. Not only did I do all my homework, but I went for a run, THEN got a haircut, THEN took a shower! This chain of events is still very rare to me, especially with the homework grouped in today as well. Hopefully Monday won't ruin the mood."],
     [[2025, 9, 22], 5, "Awake: 6:00 AM to 10:30 PM, no shower, no exercise", "Stayed up a little too late; other than that, nothing much to add. Today wasn't particularly interesting."],
     [[2025, 9, 23], 4, "Awake: 6:00 AM to 10:20 PM, no shower, no exercise", "Slightly worse than yesterday; didn't finish any of my homework, as well as a subpar school day."],
