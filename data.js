@@ -1,8 +1,8 @@
 //NOTE: This list is ordered inversely by week. For example, [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] would become [15,16,17,18,19,20,21,8,9,10,11,12,13,14,1,2,3,4,5,6,7].
 data = [
     [[2025, 9, 28], 5, "Awake: 9:00 AM to 9:40 PM, no shower, no exercise", "Nothing much happened today. I did my homework, but other than that, I basically just idled around without doing anything significantly notable. I need to start being more productive at some point."],
-    [[2025, 9, 29], -1, "", ""],
-    [[2025, 9, 30], -1, "", ""],
+    [[2025, 9, 29], 4, "Awake: 6:00 AM to 9:40 PM, no shower, no exercise", "It was going as usual, until I got home. I had a not-so-happy conversation with my mother (I wasn't in trouble, I was the conversation starter), and that dwindled my motivation for the day."],
+    [[2025, 9, 30], 6, "Awake: 6:00 AM to i don know bruh PM, no shower, no exercise", "Today started off better than usual, and that carried over into home when I got a new keyboard! Today was still pretty mid but I'll round it up because sometimes I feel I'm being too harsh on myself. I should've gotten a 7/10 day by now, but oh well."],
     [[2025, 10, 1], -1, "", ""],
     [[2025, 10, 2], -1, "", ""],
     [[2025, 10, 3], -1, "", ""],
