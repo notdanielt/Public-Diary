@@ -4,7 +4,7 @@ data = [
     [[2025, 9, 29], 4, "Awake: 6:00 AM to 9:40 PM, no shower, no exercise", "It was going as usual, until I got home. I had a not-so-happy conversation with my mother (I wasn't in trouble, I was the conversation starter), and that dwindled my motivation for the day."],
     [[2025, 9, 30], 6, "Awake: 6:00 AM to 9:50 PM, no shower, no exercise", "Today started off better than usual, and that carried over into home when I got a new keyboard! Today was still pretty mid but I'll round it up because sometimes I feel I'm being too harsh on myself. I should've gotten a 7/10 day by now, but oh well."],
     [[2025, 10, 1], 5, "Awake: 6:00 AM to 2:00 AM, no shower, no exercise", "Another mid day, although I had it easier today due to Wednesdays having the most convenient schedules. I didn't prepare for a math test but I could've still done well on it if I got lucky. Anyway, it is spoopy month now."],
-    [[2025, 10, 2], -1, "", ""],
+    [[2025, 10, 2], 5, "Awake: 11:30 AM to 10:00 PM, showered, no exercise", "Well, I woke up a little later than I wanted to, but that's what happens when you go to bed at 2:00 AM, I guess. Yesterday I finally acquired some Steam games, 5 to be specific, and played 2 of them today! Additionally, I got some of my homework done, and took a shower. Oh yeah by the way I had no school today."],
     [[2025, 10, 3], -1, "", ""],
     [[2025, 10, 4], -1, "", ""],
     [[2025, 9, 21], 6, "Awake: 9:00 AM to 9:50 PM, showered, exercised", "Well, today was definitely something. Not only did I do all my homework, but I went for a run, THEN got a haircut, THEN took a shower! This chain of events is still very rare to me, especially with the homework grouped in today as well. Hopefully Monday won't ruin the mood."],
