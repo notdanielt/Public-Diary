@@ -1,12 +1,19 @@
 //NOTE: This list is ordered inversely by week. For example, [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] would become [15,16,17,18,19,20,21,8,9,10,11,12,13,14,1,2,3,4,5,6,7].
 data = [
+    [[2025, 10, 5], 4, "Awake: 11:00 AM to 9:40 PM, no shower, no exercise", "I really needed to get stuff done today, but couldn't due to various circumstances, whether within or not within my control. Unfortunately, due to the nature of repeatedly letting myself down, this will be a 4/10."],
+    [[2025, 10, 6], -1, "", ""],
+    [[2025, 10, 7], -1, "", ""],
+    [[2025, 10, 8], -1, "", ""],
+    [[2025, 10, 9], -1, "", ""],
+    [[2025, 10, 10], -1, "", ""],
+    [[2025, 10, 11], -1, "", ""]
     [[2025, 9, 28], 5, "Awake: 9:00 AM to 9:40 PM, no shower, no exercise", "Nothing much happened today. I did my homework, but other than that, I basically just idled around without doing anything significantly notable. I need to start being more productive at some point."],
     [[2025, 9, 29], 4, "Awake: 6:00 AM to 9:40 PM, no shower, no exercise", "It was going as usual, until I got home. I had a not-so-happy conversation with my mother (I wasn't in trouble, I was the conversation starter), and that dwindled my motivation for the day."],
     [[2025, 9, 30], 6, "Awake: 6:00 AM to 9:50 PM, no shower, no exercise", "Today started off better than usual, and that carried over into home when I got a new keyboard! Today was still pretty mid but I'll round it up because sometimes I feel I'm being too harsh on myself. I should've gotten a 7/10 day by now, but oh well."],
     [[2025, 10, 1], 5, "Awake: 6:00 AM to 2:00 AM, no shower, no exercise", "Another mid day, although I had it easier today due to Wednesdays having the most convenient schedules. I didn't prepare for a math test but I could've still done well on it if I got lucky. Anyway, it is spoopy month now."],
     [[2025, 10, 2], 5, "Awake: 11:30 AM to 10:00 PM, showered, no exercise", "Well, I woke up a little later than I wanted to, but that's what happens when you go to bed at 2:00 AM, I guess. Yesterday I finally acquired some Steam games, 5 to be specific, and played 2 of them today! Additionally, I got some of my homework done, and took a shower. Oh yeah by the way I had no school today."],
     [[2025, 10, 3], 6, "Awake: i forgor, no shower, no exercise", "I had a very good school day today, and I was even planning on being very productive today, but I unfortunately couldn't get anything done though. That's fine, I'll still rate this day a 6/10."],
-    [[2025, 10, 4], 5, "Awake: 10:00 AM to ? PM, no shower, no exercise", "Not too much happened today... well, actually, something DID happen today, but I won't talk about it. I also wasn't productive today either, so it looks like we're pushing my History homework to the last possible day... yikes. Procrastination at its finest."],
+    [[2025, 10, 4], 5, "Awake: 10:00 AM to 2:20 AM, no shower, no exercise", "Not too much happened today... well, actually, something DID happen today, but I won't talk about it. I also wasn't productive today either, so it looks like we're pushing my History homework to the last possible day... yikes. Procrastination at its finest."],
     [[2025, 9, 21], 6, "Awake: 9:00 AM to 9:50 PM, showered, exercised", "Well, today was definitely something. Not only did I do all my homework, but I went for a run, THEN got a haircut, THEN took a shower! This chain of events is still very rare to me, especially with the homework grouped in today as well. Hopefully Monday won't ruin the mood."],
     [[2025, 9, 22], 5, "Awake: 6:00 AM to 10:30 PM, no shower, no exercise", "Stayed up a little too late; other than that, nothing much to add. Today wasn't particularly interesting."],
     [[2025, 9, 23], 4, "Awake: 6:00 AM to 10:20 PM, no shower, no exercise", "Slightly worse than yesterday; didn't finish any of my homework, as well as a subpar school day."],
