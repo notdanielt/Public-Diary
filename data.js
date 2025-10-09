@@ -2,8 +2,8 @@
 data = [
     [[2025, 10, 5], 4, "Awake: 11:00 AM to 9:40 PM, no shower, no exercise", "I really needed to get stuff done today, but couldn't due to various circumstances, whether within or not within my control. Unfortunately, due to the nature of repeatedly letting myself down, this will be a 4/10."],
     [[2025, 10, 6], 5, "Awake: 6:00 AM to 10:10 PM, no shower, no exercise", "The school day was alright, but I'm genuinely starting to get depressed from how unproductive I'm being; the last time I did anything useful outside of homework or showering was back in September 21... I've been trying to do something about this for a while, but my efforts never come into fruition..."],
-    [[2025, 10, 7], -1, "", ""],
-    [[2025, 10, 8], -1, "", ""],
+    [[2025, 10, 7], 5, "Awake: 6:00 AM to 10:30 PM, no shower, no exercise", "The school day was mostly good, actually; a small blip in science class happened, though. Also, I go to the library for lunch now to be able to complete school work more easily, so that's cool. However, today was yet another victim of procrastination, so it'll have to be left as a 5."],
+    [[2025, 10, 8], 6, "Awake: 6:00 AM to 11:00 PM, no shower, no exercise", "Again, still nothing at home, but the school day was particularly pleasant, so I'll give it a 6."],
     [[2025, 10, 9], -1, "", ""],
     [[2025, 10, 10], -1, "", ""],
     [[2025, 10, 11], -1, "", ""],
