@@ -9,7 +9,7 @@ for (let w = 0; w < Math.ceil(data.length/7); w++) {
             day.textContent = data[i][0][2];
             day.style.background = colors[data[i][1]];
             day.style.color = textcolors[data[i][1]];
-            day.title = months[data[i][0][1]-1] + " " + data[i][0][2] + ", " + data[i][0][0] + " • Rating: " + data[i][1] + "/10\n" + data[i][2] + "\n• - – — – - •\n" + data[i][3];
+            day.title = months[data[i][0][1]-1] + " " + data[i][0][2] + ", " + data[i][0][0] + " • Rating: " + data[i][1] + "/10 • " + data[i][2] + "\n" + data[i][3];
             if (data[i][1] == 0 || data[i][1] == 9 || data[i][1] == 10) {
                 day.style.border = "2px solid";
                 day.style.boxShadow = "0 0 1rem";
