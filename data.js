@@ -5,7 +5,7 @@ data = [
     [[2025, 10, 7], 5, "6:00 AM to 10:30 PM", "The school day was mostly good, actually; a small blip in science class happened, though. Also, I go to the library for lunch now to be able to complete school work more easily, so that's cool. However, today was yet another victim of procrastination, so it'll have to be left as a 5."],
     [[2025, 10, 8], 6, "6:00 AM to 11:00 PM", "Again, still nothing at home, but the school day was particularly pleasant, so I'll give it a 6."],
     [[2025, 10, 9], 6, "6:00 AM to 12:10 PM", "Today was a half day, and tomorrow is no school, so today was generally more free. I didn't get all too much done but it was still a pretty good day. First consecutive good days!"],
-    [[2025, 10, 10], 5, "2:20 PM to ???, showered", "Not much happened today; in other news, grass is green. Waking up at 2 PM did kinda hurt though."],
+    [[2025, 10, 10], 4, "2:20 PM to 12:20 PM, showered", "Not much happened today; in other news, grass is green. I really wanted to get stuff done today, but couldn't; in other news, the sky is blue. Waking up at 2 PM did hurt though."],
     [[2025, 10, 11], -1, "", ""],
     [[2025, 9, 28], 5, "9:00 AM to 9:40 PM", "Nothing much happened today. I did my homework, but other than that, I basically just idled around without doing anything significantly notable. I need to start being more productive at some point."],
     [[2025, 9, 29], 4, "6:00 AM to 9:40 PM", "It was going as usual, until I got home. I had a not-so-happy conversation with my mother (I wasn't in trouble, I was the conversation starter), and that dwindled my motivation for the day."],
