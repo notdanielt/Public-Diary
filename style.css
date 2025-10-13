@@ -31,6 +31,7 @@ hr {
     box-shadow: 0 0 0.5rem #0008;
     width: 100%;
     margin: 2rem;
+    border: 1px solid black;
 }
 table {
     border-spacing: 0.5rem;
