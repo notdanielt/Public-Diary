@@ -1,5 +1,5 @@
 body {
-    color: #0004;
+    color: white;
     background-color: #fa0;
     text-shadow: 0 0 0.5rem black;
     font-family: "Lexend", sans-serif;
@@ -10,6 +10,9 @@ body {
     background-size: 5rem;
     animation: scroll 3s infinite linear;
     margin: 0;
+}
+i {
+    color: #0004;
 }
 html::before {
     box-sizing: border-box;
