@@ -3,7 +3,7 @@ data = [
     [[2025, 10, 12], 5, "12:30 AM to 1:20 AM", "I was actually productive today!!! But today was still mid honestly. I finally did my language arts homework out of fear; I didn't want to leave everything to the last possible day... additionally, I also organized some things in the house, so that's cool. However, neither of these accomplishments made my day happier, so it's staying at 5/10."],
     [[2025, 10, 13], 6, "10:40 AM to 9:50 PM, showered", "So much happened today! I set a large expectation for myself at the start of the day, but still somehow got almost every single goal fulfilled! This is honestly really close to being 7, but it's barely not there."],
     [[2025, 10, 14], 5, "4:40 AM to 12:40 AM", "Crazy how I'm not that tired writing this. Anyway I did some homework earlier in the day, but couldn't get much else done later due to reasons outside of my control. Safe to say my sleep schedule is taking some hits right now though."],
-    [[2025, 10, 15], -1, "", ""],
+    [[2025, 10, 15], 5, "6:30 AM to 10:00 PM", "Well, at least my sleep schedule is getting better. Unfortunately my homework is starting to pile up now so I don't have much time left."],
     [[2025, 10, 16], -1, "", ""],
     [[2025, 10, 17], -1, "", ""],
     [[2025, 10, 18], -1, "", ""],
