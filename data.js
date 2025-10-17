@@ -4,7 +4,7 @@ data = [
     [[2025, 10, 13], 6, "10:40 AM to 9:50 PM, showered", "So much happened today! I set a large expectation for myself at the start of the day, but still somehow got almost every single goal fulfilled! This is honestly really close to being 7, but it's barely not there."],
     [[2025, 10, 14], 5, "4:40 AM to 12:40 AM", "Crazy how I'm not that tired writing this. Anyway I did some homework earlier in the day, but couldn't get much else done later due to reasons outside of my control. Safe to say my sleep schedule is taking some hits right now though."],
     [[2025, 10, 15], 5, "6:30 AM to 10:00 PM", "Well, at least my sleep schedule is getting better. Unfortunately my homework is starting to pile up now so I don't have much time left."],
-    [[2025, 10, 16], -1, "", ""],
+    [[2025, 10, 16], 4, "6:00 AM to 10:20 PM", "Today was a little out of the ordinary. Kinda threw me off from being productive."],
     [[2025, 10, 17], -1, "", ""],
     [[2025, 10, 18], -1, "", ""],
     [[2025, 10, 5], 4, "11:00 AM to 9:40 PM", "I really needed to get stuff done today, but couldn't due to various circumstances, whether within or not within my control. Unfortunately, due to the nature of repeatedly letting myself down, this will be a 4/10."],
