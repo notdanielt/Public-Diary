@@ -7,7 +7,7 @@ for (let w = 0; w < Math.ceil(data.length/7); w++) {
         day = week.insertCell();
         if (data[i][1] > -1) {
             n++;
-            description.push("—" + months[data[i][0][1]-1] + " " + data[i][0][2] + ", " + data[i][0][0] + " • Rating: " + data[i][1] + "/10 • " + data[i][2] + " —\n\n" + data[i][3]);
+            description.push("— " + months[data[i][0][1]-1] + " " + data[i][0][2] + ", " + data[i][0][0] + " • Rating: " + data[i][1] + "/10 • " + data[i][2] + " —\n\n" + data[i][3]);
             day.textContent = data[i][0][2];
             day.style.background = colors[data[i][1]];
             day.style.color = textcolors[data[i][1]];
