@@ -3,7 +3,7 @@ data = [
     [[2025, 10, 19], 6, "6:40 AM to 8:20 AM + 12:30 PM to 10:10 PM, showered", "Well, this was truly the day of all time. Can't write it all right now."],
     [[2025, 10, 20], 2, "6:00 AM to 10:10 PM", "Pretty much everything went wrong, not just at school, but also at home... this is the first 2/10 day. Again, can't write it all right now."],
     [[2025, 10, 21], 6, "6:00 AM to 11:10 PM", "Phew, almost thought the terrible day yesterday would affect today as well. Thankfully, I remedied basically everything that happened yesterday, so we're fine now!"],
-    [[2025, 10, 22], -1, "", ""],
+    [[2025, 10, 22], 6, "6:00 AM to 10:50 PM", "Another good day! I got basically no classwork assigned, and my homework is basically done for now, so today was just a chill day. The average for this week is back to 5/10!"],
     [[2025, 10, 23], -1, "", ""],
     [[2025, 10, 24], -1, "", ""],
     [[2025, 10, 25], -1, "", ""],
