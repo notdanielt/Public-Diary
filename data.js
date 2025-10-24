@@ -4,7 +4,7 @@ data = [
     [[2025, 10, 20], 2, "6:00 AM to 10:10 PM", "Pretty much everything went wrong, not just at school, but also at home... this is the first 2/10 day. Again, can't write it all right now."],
     [[2025, 10, 21], 6, "6:00 AM to 11:10 PM", "Phew, almost thought the terrible day yesterday would affect today as well. Thankfully, I remedied basically everything that happened yesterday, so we're fine now!"],
     [[2025, 10, 22], 6, "6:00 AM to 11:30 PM", "Another good day! I got basically no classwork assigned, and my homework is basically done for now, so today was just a chill day. The average for this week is back to 5/10!"],
-    [[2025, 10, 23], -1, "", ""],
+    [[2025, 10, 23], 4, "6:00 AM to 10:00 PM", "Nevermind, another bad day. I had 3 bad classes in a row and ended up nearly crying on 2 occasions. Could be worse though."],
     [[2025, 10, 24], -1, "", ""],
     [[2025, 10, 25], -1, "", ""],
     [[2025, 10, 12], 5, "12:30 AM to 1:20 AM", "I was actually productive today!!! But today was still mid honestly. I finally did my language arts homework out of fear; I didn't want to leave everything to the last possible day... additionally, I also organized some things in the house, so that's cool. However, neither of these accomplishments made my day happier, so it's staying at 5/10."],
