@@ -6,7 +6,7 @@ data = [
     [[2025, 10, 22], 6, "6:00 AM to 11:30 PM", "Another good day! I got basically no classwork assigned, and my homework is basically done for now, so today was just a chill day. The average for this week is back to 5/10!"],
     [[2025, 10, 23], 4, "6:00 AM to 10:00 PM", "Nevermind, another bad day. I had 3 bad classes in a row and ended up nearly crying on 2 occasions. Could be worse though."],
     [[2025, 10, 24], 4, "6:00 AM to 2:00 AM", "Not really that good; some of it was boring, some of it was my least favorite class, some of it was going to bed at 2 am... the regular stuff."],
-    [[2025, 10, 25], -1, "", ""],
+    [[2025, 10, 25], 5, "1:40 PM to 11:20 PM", "Couldn't get any homework done today, also I didn't particularly want to wake up this late. The rest was fine though."],
     [[2025, 10, 12], 5, "12:30 AM to 1:20 AM", "I was actually productive today!!! But today was still mid honestly. I finally did my language arts homework out of fear; I didn't want to leave everything to the last possible day... additionally, I also organized some things in the house, so that's cool. However, neither of these accomplishments made my day happier, so it's staying at 5/10."],
     [[2025, 10, 13], 6, "10:40 AM to 9:50 PM, showered", "So much happened today! I set a large expectation for myself at the start of the day, but still somehow got almost every single goal fulfilled! This is honestly really close to being 7, but it's barely not there."],
     [[2025, 10, 14], 5, "4:40 AM to 12:40 AM", "Crazy how I'm not that tired writing this. Anyway I did some homework earlier in the day, but couldn't get much else done later due to reasons outside of my control. Safe to say my sleep schedule is taking some hits right now though."],
