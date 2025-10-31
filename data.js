@@ -4,7 +4,7 @@ data = [
     [[2025, 10, 27], 4, "1:40 AM to 4:30 AM + 11:50 AM to 9:50 PM", "The quarter ends in a few days, and I still have a considerable amount of homework I need to get done... not to mention the fact that I had to skip school today due to my horrid sleep. It shouldn't happen again, though."],
     [[2025, 10, 28], 6, "4:00 AM to 10:00 PM", "All of my homework is done now! Well, except for one thing, but that's due in November so we're fine for now. Waking up at 4 AM was a bit of a scare but it actually didn't affect too much."],
     [[2025, 10, 29], 4, "6:00 AM to 9:50 PM", "The school day could've gone better, and I didn't do any homework today. That's a shame. It's probably just a one-off thing, though... or is it?"],
-    [[2025, 10, 30], -1, "", ""],
+    [[2025, 10, 30], 5, "6:00 AM to 10:00 PM", "It happened, I guess. Tomorrow's Halloween and stuff but honestly I don't really care. At least, not anymore."],
     [[2025, 10, 31], -1, "", ""],
     [[2025, 11, 1], -1, "", ""],
     [[2025, 10, 19], 6, "6:40 AM to 8:20 AM + 12:30 PM to 10:10 PM, showered", "Well, this was truly the day of all time. Can't write it all right now."],
