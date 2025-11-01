@@ -1,6 +1,6 @@
 body {
     color: white;
-    background-color: #fa0;
+    background-color: #ff0;
     text-shadow: 0 0 0.5rem black;
     font-family: "Lexend", sans-serif;
     font-size: 1.5rem;
@@ -49,5 +49,5 @@ h1 {
 }
 h2 {
     margin: 0 0 1rem 0;
-    color: #fa0;
+    color: #ff0;
 }
