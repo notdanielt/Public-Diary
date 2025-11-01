@@ -1,5 +1,5 @@
 date = new Date(), months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], year = date.getFullYear(), colors = ["black","maroon","red","orange","yellow","silver","#afa","lime","#0c8","cyan","#0af"], textcolors = ["red","#f88","black","black","black","black","black","black","black","green","lime"], days = document.getElementById("days"), i = 0, description = [], n = -1, music = new Audio("Music.mp3");
-month = months[date.getMonth()], today = date.getDate();
+month = months[date.getMonth()], today = date.getDate(), music.volume = 0.25;
 document.getElementById("date").innerHTML = month + " " + today + ", " + year;
 for (let w = 0; w < Math.ceil(data.length/7); w++) {
     week = days.insertRow();
