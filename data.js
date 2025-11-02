@@ -6,7 +6,7 @@ data = [
     [[2025, 10, 29], 4, "6:00 AM to 9:50 PM", "The school day could've gone better, and I didn't do any homework today. That's a shame. It's probably just a one-off thing, though... or is it?"],
     [[2025, 10, 30], 5, "6:00 AM to 10:00 PM", "It happened, I guess. Tomorrow's Halloween and stuff but honestly I don't really care. At least, not anymore."],
     [[2025, 10, 31], 3, "6:00 AM to 11:40 PM", "Today went well... for the most part. Everything today was basically a 5-6/10, but a 1/10 Biology class ruined the average. I eventually got over it though. Anyway, I'm starting a new plan tomorrow, so let's see how much of an effect it's going to have."],
-    [[2025, 11, 1], -1, "", ""],
+    [[2025, 11, 1], 5, "10:00 AM to 10:30 PM", "It started well, then I got distracted. Oh well, you can't win them all."],
     [[2025, 10, 19], 6, "6:40 AM to 8:20 AM + 12:30 PM to 10:10 PM, showered", "Well, this was truly the day of all time. Can't write it all right now."],
     [[2025, 10, 20], 2, "6:00 AM to 10:10 PM", "Pretty much everything went wrong, not just at school, but also at home... this is the first 2/10 day. Again, can't write it all right now."],
     [[2025, 10, 21], 6, "6:00 AM to 11:10 PM", "Phew, almost thought the terrible day yesterday would affect today as well. Thankfully, I remedied basically everything that happened yesterday, so we're fine now!"],
