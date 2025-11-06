@@ -3,7 +3,7 @@ data = [
     [[2025, 11, 2], 4, "6:00 AM to 9:40 PM", "I wasn't able to get anything done today, mainly due to my lack of sleep as well as the existence of Geometry Dash... well, there's (almost) always tomorrow."],
     [[2025, 11, 3], 6, "5:00 AM to 10:40 PM", "Forgot to retime my alarm clock. Anyway, I had big plans for today, and things were actually going smoothly with me starting off the day (after school) doing homework. Unfortunately, Geometry Dash. Fortunately, I beat my first demon! Still wish I was more productive though, could've been 7/10. Tomorrow is no school, however, so there's a large possibility of redemption."],
     [[2025, 11, 4], 5, "8:00 AM to 9:50 PM", "Actually, pretty much nothing happened today. I didn't get TOO distracted, but I also wasn't able to start doing homework despite pulling it up multiple times. Thankfully, I didn't have anything that was ACTUALLY due tomorrow, so that's good."],
-    [[2025, 11, 5], -1, "", ""],
+    [[2025, 11, 5], 4, "6:00 AM to 10:30 PM", "Almost the same as yesterday: while I was able to get some homework done, it was negligible. I also have a lot of things I may need to get done soon, so that's unfortunate, but it shouldn't be impossible."],
     [[2025, 11, 6], -1, "", ""],
     [[2025, 11, 7], -1, "", ""],
     [[2025, 11, 8], -1, "", ""],
