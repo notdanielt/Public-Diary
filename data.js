@@ -2,7 +2,7 @@
 data = [
     [[2025, 11, 9], 6, "10:00 AM to 9:40 PM", "My Biology grade is back to a B- (which isn't great for my standards, but it's acceptable)!! I could've done more today, but that didn't affect today too much, especially considering there isn't much to do. I wonder how tomorrow will go..."],
     [[2025, 11, 10], 3, "6:00 AM to 10:10 PM", "4 bad periods in a row, and on top of that, I couldn't get any homework done. Good thing there's no school tomorrow. (This is very close to being a 4, don't interpret this too badly)"],
-    [[2025, 11, 11], -1, "", ""],
+    [[2025, 11, 11], 5, "10:00 AM to 9:50 PM", "Pretty average day, I got some of my homework done and did a few other things as well. Didn't utilize today as much as I wanted to, but what else is new? Anyway, my motivation seems to be somewhat increasing, but mood swings exist, so nothing is set in stone."],
     [[2025, 11, 12], -1, "", ""],
     [[2025, 11, 13], -1, "", ""],
     [[2025, 11, 14], -1, "", ""],
