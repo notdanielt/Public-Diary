@@ -1,5 +1,12 @@
-//NOTE: This list is ordered inversely by week. For example, [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] would become [15,16,17,18,19,20,21,8,9,10,11,12,13,14,1,2,3,4,5,6,7].
+//NOTE: This list is ordered inversely by week, but normally within each week. This is to show the most recent weeks at the top, so you don't have to scroll down to see recent activity.
 data = [
+    [[2025, 11, 16], 5, "9:00 AM to 9:40 PM", "I really tried to get a 7/10 today. Unfortunately for me, however, the 7/10 Police arrived."],
+    [[2025, 11, 17], -1, "", ""],
+    [[2025, 11, 18], -1, "", ""],
+    [[2025, 11, 19], -1, "", ""],
+    [[2025, 11, 20], -1, "", ""],
+    [[2025, 11, 21], -1, "", ""],
+    [[2025, 11, 22], -1, "", ""],
     [[2025, 11, 9], 6, "10:00 AM to 9:40 PM", "My Biology grade is back to a B- (which isn't great for my standards, but it's acceptable)!! I could've done more today, but that didn't affect today too much, especially considering there isn't much to do. I wonder how tomorrow will go..."],
     [[2025, 11, 10], 3, "6:00 AM to 10:10 PM", "4 bad periods in a row, and on top of that, I couldn't get any homework done. Good thing there's no school tomorrow. (This is very close to being a 4, don't interpret this too badly)"],
     [[2025, 11, 11], 5, "10:00 AM to 9:50 PM", "Pretty average day, I got some of my homework done and did a few other things as well. Didn't utilize today as much as I wanted to, but what else is new? Anyway, my motivation seems to be somewhat increasing, but mood swings exist, so nothing is set in stone."],
