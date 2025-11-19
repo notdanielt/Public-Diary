@@ -1,8 +1,8 @@
 //NOTE: This list is ordered inversely by week, but normally within each week. This is to show the most recent weeks at the top, so you don't have to scroll down to see recent activity.
 data = [
     [[2025, 11, 16], 5, "9:00 AM to 9:40 PM", "I really tried to get a 7/10 today. Unfortunately for me, however, the 7/10 Police arrived."],
-    [[2025, 11, 17], -1, "", ""],
-    [[2025, 11, 18], -1, "", ""],
+    [[2025, 11, 17], 5, "6:30 AM to i forgor", "I don't rememeber too much of what happened today, so it couldn't have been important. ...Right?"],
+    [[2025, 11, 18], 4, "6:00 AM to 10:00 PM", "Biology class did not go well, and I also wasn't able to do any homework. However, this isn't a 3/10 because the last 2 classes of the day went really well! Not enough to cancel out the negatives completely, though."],
     [[2025, 11, 19], -1, "", ""],
     [[2025, 11, 20], -1, "", ""],
     [[2025, 11, 21], -1, "", ""],
