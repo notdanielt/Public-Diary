@@ -4,7 +4,7 @@ data = [
     [[2025, 11, 17], 5, "6:30 AM to i forgor", "I don't rememeber too much of what happened today, so it couldn't have been important. ...Right?"],
     [[2025, 11, 18], 4, "6:00 AM to 10:00 PM", "Biology class did not go well, and I also wasn't able to do any homework. However, this isn't a 3/10 because the last 2 classes of the day went really well! Not enough to cancel out the negatives completely, though."],
     [[2025, 11, 19], 6, "6:00 AM to 10:10 PM", "Good day, didn't do anything at home because I didn't have any homework due soon. I did see the opportunity for a 7/10 but I couldn't take it."],
-    [[2025, 11, 20], -1, "", ""],
+    [[2025, 11, 20], 6, "6:00 AM to 10:00 PM", "I really tried to get a 7/10 day again! I wonder how that turned out!!!!! But seriously I got stuck on Math homework which ened up usurping much more energy than expected, so that's unfortunate. However, Friday should be more forgiving (at home), so that's my best opportunity yet."],
     [[2025, 11, 21], -1, "", ""],
     [[2025, 11, 22], -1, "", ""],
     [[2025, 11, 9], 6, "10:00 AM to 9:40 PM", "My Biology grade is back to a B- (which isn't great for my standards, but it's acceptable)!! I could've done more today, but that didn't affect today too much, especially considering there isn't much to do. I wonder how tomorrow will go..."],
