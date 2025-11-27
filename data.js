@@ -3,7 +3,7 @@ data = [
     [[2025, 11, 23], 4, "9:00 AM to 9:40 PM", "I couldn't bring myself to do anything I wanted to do today. That's fine though, at least I tried."],
     [[2025, 11, 24], 5, "6:00 AM to 10:00 PM", "Another day with no results. The school day was better, but I can't let November 21 be a one-off."],
     [[2025, 11, 25], 6, "6:00 AM to 9:50 PM", "Good school day, and I don't have any homework! This will be a rarity considering I'm in high school, but it is certainly welcome. Unfortunately, I couldn't do much today, but it doesn't matter too much, honestly."],
-    [[2025, 11, 26], -1, "", ""],
+    [[2025, 11, 26], 5, "6:00 AM to 11:20 PM", "Basically the same as yesterday. Technically I do have some homework but it's due on December 8 so we're chilling. I suspect I won't be able to do much tomorrow, but we'll see."],
     [[2025, 11, 27], -1, "", ""],
     [[2025, 11, 28], -1, "", ""],
     [[2025, 11, 29], -1, "", ""],
