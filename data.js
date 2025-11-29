@@ -5,7 +5,7 @@ data = [
     [[2025, 11, 25], 6, "6:00 AM to 9:50 PM", "Good school day, and I don't have any homework! This will be a rarity considering I'm in high school, but it is certainly welcome. Unfortunately, I couldn't do much today, but it doesn't matter too much, honestly."],
     [[2025, 11, 26], 5, "6:00 AM to 11:20 PM", "Basically the same as yesterday. Technically I do have some homework but it's due on December 8 so we're chilling. I suspect I won't be able to do much tomorrow, but we'll see."],
     [[2025, 11, 27], 5, "8:00 AM to 12:40 AM", "Yeah, I couldn't do much today. The day started off well, but then I had already used up all the time I had today. Tomorrow should be more free, though."],
-    [[2025, 11, 28], -1, "", ""],
+    [[2025, 11, 28], 5, "10:00 AM to 10:30 PM", "Again, the day started off well, but then I kind of just dozed off and did absolutely nothing for the majority of the day. Very close to a 6, but it just doesn't feel right with how the second half of the day went."],
     [[2025, 11, 29], -1, "", ""],
     [[2025, 11, 16], 5, "9:00 AM to 9:40 PM", "I really tried to get a 7/10 today. Unfortunately for me, however, the 7/10 Police arrived."],
     [[2025, 11, 17], 5, "6:30 AM to i forgor", "I don't rememeber too much of what happened today, so it couldn't have been important. ...Right?"],
