@@ -4,7 +4,7 @@ data = [
     [[2025, 12, 1], 5, "6:00 AM to i forgor, showered", "Basically just a repeat of yesterday. Really motivated at the beginning, but then I dozed off. Also it's December now."],
     [[2025, 12, 2], 5, "6:00 AM to 10:00 PM", "Basically just a repeat of yesterday. Well, actually, I did get some stuff done...actually, was it even really a repeat of yesterday then? I mean, kind of, but, like, uhhhhh"],
     [[2025, 12, 3], 5, "6:00 AM to 10:30 PM", "High hopes, low performance. That's pretty much it."],
-    [[2025, 12, 4], -1, "", ""],
+    [[2025, 12, 4], 4, "6:00 AN to 9:50 PM, showered", "Yet another dud. I am obviously repeatedly getting distracted whenever I try to do something. Also, today actually had a BAD start, but it got better. I'm trying my best to discipline myself, I promise..."],
     [[2025, 12, 5], -1, "", ""],
     [[2025, 12, 6], -1, "", ""],
     [[2025, 11, 23], 4, "9:00 AM to 9:40 PM", "I couldn't bring myself to do anything I wanted to do today. That's fine though, at least I tried."],
