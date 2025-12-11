@@ -3,7 +3,7 @@ data = [
     [[2025, 12, 7], 5, "8:00 AM to 9:30 PM, showered", "As I keep pushing myself more and more, I get closer and closer to achieving my goals... but I'm not quite there yet. I don't know exactly when I will finally break through, but I hope it's sooner rather than later."],
     [[2025, 12, 8], 5, "6:00 AM to 10:30 PM", "The cycle continues, despite my best efforts to halt it. Sorry for the cryptic desciptions, I'm trying to be creative here..."],
     [[2025, 12, 9], 5, "6:00 AM to 10:30 PM", "Try not to repeat myself challenge (IMPOSSIBLE)"],
-    [[2025, 12, 10], -1, "", ""],
+    [[2025, 12, 10], 3, "6:00 AM to 9:30 PM", "I wasn't prepared for the school day to be really bad. I had 2 tests and they both did not go well. This ruined my mood for the day and I couldn't bring myself to get anything done."],
     [[2025, 12, 11], -1, "", ""],
     [[2025, 12, 12], -1, "", ""],
     [[2025, 12, 13], -1, "", ""],
