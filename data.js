@@ -4,7 +4,7 @@ data = [
     [[2025, 12, 8], 5, "6:00 AM to 10:30 PM", "The cycle continues, despite my best efforts to halt it. Sorry for the cryptic desciptions, I'm trying to be creative here..."],
     [[2025, 12, 9], 5, "6:00 AM to 10:30 PM", "Try not to repeat myself challenge (IMPOSSIBLE)"],
     [[2025, 12, 10], 3, "6:00 AM to 9:30 PM", "I wasn't prepared for the school day to be really bad. I had 2 tests and they both did not go well. This ruined my mood for the day and I couldn't bring myself to get anything done."],
-    [[2025, 12, 11], -1, "", ""],
+    [[2025, 12, 11], 4, "6:00 AM to 10:20 PM", "Well, it was better than yesterday, am I right? Ok but seriously I'm overwhelmed with schoolworkk right now and didn't pressure myself to work on non-school things."],
     [[2025, 12, 12], -1, "", ""],
     [[2025, 12, 13], -1, "", ""],
     [[2025, 11, 30], 4, "8:00 AM to 9:30 PM", "Basically just a repeat of yesterday. Forced myself to do a minor amount of homework at the beginning of the day, but that must've depleted all of my motivation to do anything else. Discipline doesn't happen on its own."],
