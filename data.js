@@ -6,7 +6,7 @@ data = [
     [[2025, 12, 10], 3, "6:00 AM to 9:30 PM", "I wasn't prepared for the school day to be really bad. I had 2 tests and they both did not go well. This ruined my mood for the day and I couldn't bring myself to get anything done."],
     [[2025, 12, 11], 4, "6:00 AM to 10:20 PM", "Well, it was better than yesterday, am I right? Ok but seriously I'm overwhelmed with schoolworkk right now and didn't pressure myself to work on non-school things."],
     [[2025, 12, 12], 6, "6:00 AM to 11:20 PM", "Did some stuff today, didn't do some stuff today. Glad it's the weekend though."],
-    [[2025, 12, 13], -1, "", ""],
+    [[2025, 12, 13], 4, "9:00 AM to 11:40 PM, showered", "Didn't have many plans for today, and consequently didn't do much today. I hope tomorrow will be better, but I always say that..."],
     [[2025, 11, 30], 4, "8:00 AM to 9:30 PM", "Basically just a repeat of yesterday. Forced myself to do a minor amount of homework at the beginning of the day, but that must've depleted all of my motivation to do anything else. Discipline doesn't happen on its own."],
     [[2025, 12, 1], 5, "6:00 AM to i forgor, showered", "Basically just a repeat of yesterday. Really motivated at the beginning, but then I dozed off. Also it's December now."],
     [[2025, 12, 2], 5, "6:00 AM to 10:00 PM", "Basically just a repeat of yesterday. Well, actually, I did get some stuff done...actually, was it even really a repeat of yesterday then? I mean, kind of, but, like, uhhhhh"],
