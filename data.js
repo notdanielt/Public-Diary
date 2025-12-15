@@ -1,5 +1,12 @@
 //NOTE: This list is ordered inversely by week, but normally within each week. This is to show the most recent weeks at the top, so you don't have to scroll down to see recent activity.
 data = [
+    [[2025, 12, 14], 4, "9:00 AM to 3:20 PM + 7:40 PM to 11:50 PM", "Today just felt... wrong. I couldn't bring myself to do anything, even when I was feeling bored of idling. Even with productivity being right in front of me, and my distractions eliminated, I somehow found a way to fumble the bag and take a 4 hour nap that ruined the pace. How did that happen?"],
+    [[2025, 12, 15], -1, "", ""],
+    [[2025, 12, 16], -1, "", ""],
+    [[2025, 12, 17], -1, "", ""],
+    [[2025, 12, 18], -1, "", ""],
+    [[2025, 12, 19], -1, "", ""],
+    [[2025, 12, 20], -1, "", ""],
     [[2025, 12, 7], 5, "8:00 AM to 9:30 PM, showered", "As I keep pushing myself more and more, I get closer and closer to achieving my goals... but I'm not quite there yet. I don't know exactly when I will finally break through, but I hope it's sooner rather than later."],
     [[2025, 12, 8], 5, "6:00 AM to 10:30 PM", "The cycle continues, despite my best efforts to halt it. Sorry for the cryptic desciptions, I'm trying to be creative here..."],
     [[2025, 12, 9], 5, "6:00 AM to 10:30 PM", "Try not to repeat myself challenge (IMPOSSIBLE)"],
