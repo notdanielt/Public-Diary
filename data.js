@@ -4,7 +4,7 @@ data = [
     [[2025, 12, 15], 6, "6:00 AM to 9:50 PM", "I was not expecting yesterday's suboptimal sleep schedule to result in today being not bad! I was more motivated today than usual, although apparently not enough to complete any homework after school. Hey, it's better than before."],
     [[2025, 12, 16], 5, "6:00 AM to 11:00 PM, showered", "Basically the same as yesterday, minus the sleep schedule. Motivated, yet not motivated enough."],
     [[2025, 12, 17], 5, "6:00 AM to 9:40 PM", "Basically the same as yesterday. Yep, we're doing this again."],
-    [[2025, 12, 18], -1, "", ""],
+    [[2025, 12, 18], 5, "6:00 AM to 10:10 PM", "Finally, I actually did homework at home! Didn't do anything else, but we're getting better."],
     [[2025, 12, 19], -1, "", ""],
     [[2025, 12, 20], -1, "", ""],
     [[2025, 12, 7], 5, "8:00 AM to 9:30 PM, showered", "As I keep pushing myself more and more, I get closer and closer to achieving my goals... but I'm not quite there yet. I don't know exactly when I will finally break through, but I hope it's sooner rather than later."],
