@@ -1,7 +1,7 @@
 //NOTE: This list is ordered inversely by week, but normally within each week. This is to show the most recent weeks at the top, so you don't have to scroll down to see recent activity.
 data = [
     [[2025, 12, 21], 6, "9:00 AM to 10:30 PM", "Hey, I actually did quite a lot today! Unfortunately, too manyt inconveniences for a 7/10, but I got basically all of my homework done, so who cares?"],
-    [[2025, 12, 22], -1, "", ""],
+    [[2025, 12, 22], 6, "6:00 AM to 10:00 PM", "Lower 6 than yesterday, but still refreshing since I've completed all of my 2025 homework! Christmas break starts tomorrow, so that's also pretty epic."],
     [[2025, 12, 23], -1, "", ""],
     [[2025, 12, 24], -1, "", ""],
     [[2025, 12, 25], -1, "", ""],
