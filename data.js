@@ -3,7 +3,7 @@ data = [
     [[2025, 12, 21], 6, "9:00 AM to 10:30 PM", "Hey, I actually did quite a lot today! Unfortunately, too manyt inconveniences for a 7/10, but I got basically all of my homework done, so who cares?"],
     [[2025, 12, 22], 6, "6:00 AM to 10:00 PM", "Lower 6 than yesterday, but still refreshing since I've completed all of my 2025 homework! Christmas break starts tomorrow, so that's also pretty epic."],
     [[2025, 12, 23], 5, "6:00 AM to 11:40 PM", "Aside from the obvious, nothing too special actually happened today. I did basically nothing at home (or in school, for that matter), so today was actually pretty mid. Tomorrow is Christmas Eve, so I wonder what will happen then..."],
-    [[2025, 12, 24], -1, "", ""],
+    [[2025, 12, 24], 5, "9:00 AM to 9:50 PM", "For the family, today might've been interesting, but I iddn't participate in anything, so nothing much happened to me specifically. Tomorrow will be interesting for everyone, though. I wonder why..."],
     [[2025, 12, 25], -1, "", ""],
     [[2025, 12, 26], -1, "", ""],
     [[2025, 12, 27], -1, "", ""],
