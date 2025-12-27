@@ -5,7 +5,7 @@ data = [
     [[2025, 12, 23], 5, "6:00 AM to 11:40 PM", "Aside from the obvious, nothing too special actually happened today. I did basically nothing at home (or in school, for that matter), so today was actually pretty mid. Tomorrow is Christmas Eve, so I wonder what will happen then..."],
     [[2025, 12, 24], 5, "9:00 AM to 9:50 PM", "For the family, today might've been interesting, but I didn't participate in anything, so nothing much happened to me specifically. Tomorrow will be interesting for everyone, though. I wonder why..."],
     [[2025, 12, 25], 6, "9:50 AM to 9:50 PM + 11:40 PM to 1:30 AM, showered", "crimas!!! Too tired to write it all right now, but knowing October 19 and 20, I'm probably never finishing this desciption. Oh well."],
-    [[2025, 12, 26], -1, "", ""],
+    [[2025, 12, 26], 5, "11:30 AM to 1:20 AM", "The majority of the day was spent trying to get the new computer (that I got yesterday) set up, but we couldn't get the monitor to detect the computer, even though we were able to turn it on. It should be fixed tomorrow, though."],
     [[2025, 12, 27], -1, "", ""],
     [[2025, 12, 14], 4, "9:00 AM to 3:20 PM + 7:40 PM to 11:50 PM", "Today just felt... wrong. I couldn't bring myself to do anything, even when I was feeling bored of idling. Even with productivity being right in front of me, and my distractions eliminated, I somehow found a way to fumble the bag and take a 4 hour nap that ruined the pace. How did that happen?"],
     [[2025, 12, 15], 6, "6:00 AM to 9:50 PM", "I was not expecting yesterday's suboptimal sleep schedule to result in today being not bad! I was more motivated today than usual, although apparently not enough to complete any homework after school. Hey, it's better than before."],
