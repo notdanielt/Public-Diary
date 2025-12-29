@@ -1,5 +1,12 @@
 //NOTE: This list is ordered inversely by week, but normally within each week. This is to show the most recent weeks at the top, so you don't have to scroll down to see recent activity.
 data = [
+    [[2025, 12, 28], 4, "i forgor to 11:10 PM", "These past few days have NOT been good in terms of productivity, as I've been basically doing nothing. The comuter should hopefully be fixed tomorrow, but we'll see how that goes. I also just need to stop procrastinating."],
+    [[2025, 12, 29], -1, "", ""],
+    [[2025, 12, 30], -1, "", ""],
+    [[2025, 12, 31], -1, "", ""],
+    [[2026, 1, 1], -1, "", ""],
+    [[2026, 1, 2], -1, "", ""],
+    [[2026, 1, 3], -1, "", ""],
     [[2025, 12, 21], 6, "9:00 AM to 10:30 PM", "Hey, I actually did quite a lot today! Unfortunately, too many inconveniences for a 7/10, but I got basically all of my homework done, so who cares?"],
     [[2025, 12, 22], 6, "6:00 AM to 10:00 PM", "Lower 6 than yesterday, but still refreshing since I've completed all of my 2025 homework! Christmas break starts tomorrow, so that's also pretty epic."],
     [[2025, 12, 23], 5, "6:00 AM to 11:40 PM", "Aside from the obvious, nothing too special actually happened today. I did basically nothing at home (or in school, for that matter), so today was actually pretty mid. Tomorrow is Christmas Eve, so I wonder what will happen then..."],
