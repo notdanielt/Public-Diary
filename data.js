@@ -3,7 +3,7 @@ data = [
     [[2025, 12, 28], 4, "i forgor to 11:10 PM", "These past few days have NOT been good in terms of productivity, as I've been basically doing nothing. The computer should hopefully be fixed tomorrow, but we'll see how that goes. I also just need to stop procrastinating."],
     [[2025, 12, 29], 4, "9:00 AM to 1:20 AM, showered", "Yikes, the procrastination continues. At least I took a shower, but that isn't really that much. I just can't force myself to work on any of my goals... for now."],
     [[2025, 12, 30], 4, "11:40 AM to 11:20 PM", "Another one bites the dust. I feel like I'm getting really close to breaking through now, and I really wanted to be productive today to make the final 2 days of 2025 show my improvements. Well, there's still 1 day left to do so."],
-    [[2025, 12, 31], -1, "", ""],
+    [[2025, 12, 31], 6, "9:00 AM to 12:30 AM, showered", "And that's a wrap! 2025 was one of my best years, especially discounting the first third. I made a lot of progress in my life, albeit not much in passion projects. That's why I'm going to be focusing on those now in 2026. Aside from general stuff about the new year, today specifically was a great sendoff to 2025, being the most productive day since November 21! It looks like 2026 is likely going to be the best year of my life, so let's hope it goes that way!"],
     [[2026, 1, 1], -1, "", ""],
     [[2026, 1, 2], -1, "", ""],
     [[2026, 1, 3], -1, "", ""],
