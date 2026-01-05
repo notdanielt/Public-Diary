@@ -1,6 +1,6 @@
 //NOTE: This list is ordered inversely by week, but normally within each week. This is to show the most recent weeks at the top, so you don't have to scroll down to see recent activity.
 data = [
-    [[2026, 1, 4], 5, "i forgor to 9:50 PM", "As the winter break comes to a close, a suboptimal amount of progress was made, but it's better than nothing. I'll be sure to keep on trying to improve throughout this week, this month, this year, actually pretty much my whole life."],
+    [[2026, 1, 4], 5, "i forgor to 10:00 PM", "As the winter break comes to a close, a suboptimal amount of progress was made, but it's better than nothing. I'll be sure to keep on trying to improve throughout this week, this month, this year, actually pretty much my whole life."],
     [[2026, 1, 5], -1, "", ""],
     [[2026, 1, 6], -1, "", ""],
     [[2026, 1, 7], -1, "", ""],
