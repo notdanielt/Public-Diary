@@ -5,7 +5,7 @@ data = [
     [[2026, 1, 6], 4, "6:00 AM to 10:20 PM", "...Yikes. I thought I would get around to doing homework, then I spiralled into a 5 hour Geometry Dash session that would've gone for even longer had it not already been bedtime. I'm not expecting the best for tomorrow, but you never know."],
     [[2026, 1, 7], 5, "6:00 AM to 10:10 PM", "Well, it was better than yesterday, but not by a lot. I got my homework done, and that's about it. Better than nothing, I guess."],
     [[2026, 1, 8], 5, "6:00 AM to 10:10 PM", "I feel like nothing interesting is happening anymore. Pretty much every 2026 day has been mid after mid after mid... which might make sense since there's midterms soon. Seriously though, I don't want to repeat the same mistake I made in 2025, where the first 4 months were a slog to get through. Although, reminder that despite this depressing tons, today wasn't necessarily bad, just disappointingly uneventful."],
-    [[2026, 1, 9], -1, "", ""],
+    [[2026, 1, 9], 5, "6:30 AM to 11:00 PM", "Still nothing, but at least I'm temporarily free from school for now. Tomorrow could go in any direction, honestly."],
     [[2026, 1, 10], -1, "", ""],
     [[2025, 12, 28], 4, "i forgor to 11:10 PM", "These past few days have NOT been good in terms of productivity, as I've been basically doing nothing. The computer should hopefully be fixed tomorrow, but we'll see how that goes. I also just need to stop procrastinating."],
     [[2025, 12, 29], 4, "9:00 AM to 1:20 AM, showered", "Yikes, the procrastination continues. At least I took a shower, but that isn't really that much. I just can't force myself to work on any of my goals... for now."],
