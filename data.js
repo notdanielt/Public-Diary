@@ -3,7 +3,7 @@ data = [
     [[2026, 1, 11], 5, "10:40 AM to 10:00 PM", "I got to put my new computer to the test, and bro it's actually overpowered. Unfortunately, this distracted me from getting anything meaningful done aside from setting up the rest of the computer. I didn't have that much homework to begin with, though, so we should be fine."],
     [[2026, 1, 12], 3, "6:00 AM to 5:00 PM + 8:40 PM to 11:40 PM", "Today was the realization that I am highly overwhelmed by the amount of work I have to do. The school day did not go well and it didn't help that I had to take a nap in the evening. I barely got anything done today, let's hope tomorrow will be better."],
     [[2026, 1, 13], 5, "6:00 AM to 10:10 PM, showered", "it started off well, but I couldn't get around to starting homework. It's fine though, I don't have as much homework as I expected yesterday. I still need to start grinding it out tomorrow though."],
-    [[2026, 1, 14], -1, "", ""],
+    [[2026, 1, 14], 5, "6:00 AM to 10:20 PM", "I managed to complete all the homework I needed to do (at school), and tomorrow is the first midterm. I don't know how tomorrow will go, but it's unlikely it will be bad. (Still very possible, though)"],
     [[2026, 1, 15], -1, "", ""],
     [[2026, 1, 16], -1, "", ""],
     [[2026, 1, 17], -1, "", ""],
