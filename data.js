@@ -4,7 +4,7 @@ data = [
     [[2026, 1, 19], 5, "10:40 AM to 9:50 PM", "Well, I actually DID do some homework today! Not as much as I'd hoped, but at least I can say I did something this weekend. It's back to midterms tomorrow, but they shouldn't be that bad... studying for them is what's actually difficult."],
     [[2026, 1, 20], 5, "6:00 AM to 10:00 PM", "Today was almost a success, but not quite. I do have a plan going forward, so things should be fine, right?"],
     [[2026, 1, 21], 5, "6:00 AM to 10:00 PM", "I... think I'm fine. I did almost everything that I wanted to do, but I skipped doing some things, but I made one final plan that needs to work. I think it will, but let's see how it goes."],
-    [[2026, 1, 22], -1, "", ""],
+    [[2026, 1, 22], 3, "6:00 AM to 9:40 PM", "Alright, midterms are finally basically over... but not without an actual mental breakdown spanning an entire hour. I'll finally be free tomorrow."],
     [[2026, 1, 23], -1, "", ""],
     [[2026, 1, 24], -1, "", ""],
     [[2026, 1, 11], 5, "10:40 AM to 10:00 PM", "I got to put my new computer to the test, and bro it's actually overpowered. Unfortunately, this distracted me from getting anything meaningful done aside from setting up the rest of the computer. I didn't have that much homework to begin with, though, so we should be fine."],
