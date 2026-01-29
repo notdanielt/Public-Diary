@@ -3,7 +3,7 @@ data = [
     [[2026, 1, 25], 5, "10:40 AM to 12:00 AM, showered", "I'm just now starting to realize how uneventful most of my life is. I'm motivated to do stuff tomorrow, but we'll see how long that lasts."],
     [[2026, 1, 26], 5, "i forgor to 10:10 PM", "Well, I didn't do as much as I'd hoped, but I probably still did better than I expected. I have some interesting plans for February in the works, and I'll try to warm up for them for these last few days."],
     [[2026, 1, 27], 4, "6:00 AM to 10:00 PM, showered", "Yo I actually need to start doing things, this is getting out of hand. I'm not about to relive the same experience I had a year ago (but you probably don't know about that, it was before I made this diary)."],
-    [[2026, 1, 28], -1, "", ""],
+    [[2026, 1, 28], 4, "6:00 AM to 10:50 PM", "Today did not go exactly how I wanted it to go. I'm not sure what else to say that hasn't already been said like a hundred times here, basically the gist is that I did nothing today... wow, what a surprise."],
     [[2026, 1, 29], -1, "", ""],
     [[2026, 1, 30], -1, "", ""],
     [[2026, 1, 31], -1, "", ""],
