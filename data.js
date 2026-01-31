@@ -5,7 +5,7 @@ data = [
     [[2026, 1, 27], 4, "6:00 AM to 10:00 PM, showered", "Yo I actually need to start doing things, this is getting out of hand. I'm not about to relive the same experience I had a year ago (but you probably don't know about that, it was before I made this diary)."],
     [[2026, 1, 28], 4, "6:00 AM to 10:50 PM", "Today did not go exactly how I wanted it to go. I'm not sure what else to say that hasn't already been said like a hundred times here, basically the gist is that I did nothing today... wow, what a surprise."],
     [[2026, 1, 29], 6, "6:00 AM to 10:40 PM", "Finally, something actually decent happened. It wasn't perfect by any means, but I really needed this glimmer of hope... ok it's not THAT deep but still."],
-    [[2026, 1, 30], -1, "", ""],
+    [[2026, 1, 30], 6, "6:00 AM to 9:50 PM", "Wait, things are actually starting to look up now. While I'm still not particularly satisfied with my productivity, let's just say it's convex (mathematical term). I might be starting my February plans a day early, but that's 1 day better than what I was hoping for! In other words: it's time to lock in."],
     [[2026, 1, 31], -1, "", ""],
     [[2026, 1, 18], 5, "i forgor to 1:40 AM", "Yet another load of nothing, but I did actually try to do something today. Still though, I couldn't get anything done. I really hope I can pull through eventually."],
     [[2026, 1, 19], 5, "10:40 AM to 9:50 PM", "Well, I actually DID do some homework today! Not as much as I'd hoped, but at least I can say I did something this weekend. It's back to midterms tomorrow, but they shouldn't be that bad... studying for them is what's actually difficult."],
