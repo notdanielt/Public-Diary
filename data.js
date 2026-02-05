@@ -3,7 +3,7 @@ data = [
     [[2026, 2, 1], 6, "10:20 AM to 10:10 PM", "Welcome to February! I was actually really productive for the first half of the day, but foiled in the second half. This is only the first day though, and I still did enough today to be satisfactory."],
     [[2026, 2, 2], 5, "6:00 AM to 10:10 PM", "Didn't get as much done as I wanted myself to do, but that's to be expected when I put a lot of pressure on myself. Hopefully tomorrow is better (have you noticed I've been trying to not use the word \"hopefully\" in recent entries?)"],
     [[2026, 2, 3], 5, "6:00 AM to 10:20 PM", "Similar to yesterday: not a success, but also not a failure. Not sure what else to say."],
-    [[2026, 2, 4], -1, "", ""],
+    [[2026, 2, 4], 5, "6:00 AM to 10:00 PM", "This isn't really working out so far. I do feel I'm very close to being consistently prductive for once, but I've always felt like that. I do believe in this occasion more than usual, though, but it'll likely be a slow incline rather than a burst of activity."],
     [[2026, 2, 5], -1, "", ""],
     [[2026, 2, 6], -1, "", ""],
     [[2026, 2, 7], -1, "", ""],
