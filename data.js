@@ -4,7 +4,7 @@ data = [
     [[2026, 2, 2], 5, "6:00 AM to 10:10 PM", "Didn't get as much done as I wanted myself to do, but that's to be expected when I put a lot of pressure on myself. Hopefully tomorrow is better (have you noticed I've been trying to not use the word \"hopefully\" in recent entries?)"],
     [[2026, 2, 3], 5, "6:00 AM to 10:20 PM", "Similar to yesterday: not a success, but also not a failure. Not sure what else to say."],
     [[2026, 2, 4], 5, "6:00 AM to 10:00 PM", "This isn't really working out so far. I do feel I'm very close to being consistently prductive for once, but I've always felt like that. I do believe in this occasion more than usual, though, but it'll likely be a slow incline rather than a burst of activity."],
-    [[2026, 2, 5], -1, "", ""],
+    [[2026, 2, 5], 4, "6:00 AM to 10:10 PM", "Bruh. Yet another waste. Tomorrow is the final day of the week, so I realistically shouldn't feel as pressured to do things when I arrive home. I genuinely do think tomorrow will go well, but I can never truly be sure."],
     [[2026, 2, 6], -1, "", ""],
     [[2026, 2, 7], -1, "", ""],
     [[2026, 1, 25], 5, "10:40 AM to 12:00 AM, showered", "I'm just now starting to realize how uneventful most of my life is. I'm motivated to do stuff tomorrow, but we'll see how long that lasts."],
