@@ -5,7 +5,7 @@ data = [
     [[2026, 2, 3], 5, "6:00 AM to 10:20 PM", "Similar to yesterday: not a success, but also not a failure. Not sure what else to say."],
     [[2026, 2, 4], 5, "6:00 AM to 10:00 PM", "This isn't really working out so far. I do feel I'm very close to being consistently prductive for once, but I've always felt like that. I do believe in this occasion more than usual, though, but it'll likely be a slow incline rather than a burst of activity."],
     [[2026, 2, 5], 4, "6:00 AM to 10:10 PM", "Bruh. Yet another waste. Tomorrow is the final day of the week, so I realistically shouldn't feel as pressured to do things when I arrive home. I genuinely do think tomorrow will go well, but I can never truly be sure."],
-    [[2026, 2, 6], -1, "", ""],
+    [[2026, 2, 6], 6, "6:00 AM to 10:40 PM", "Yeah it was pretty cool I guess, of course I couldn't do everything but I still managed to get quite a bit done. There is room for lots of opportunity tomorrow, and I'm definitely going to reach for it."],
     [[2026, 2, 7], -1, "", ""],
     [[2026, 1, 25], 5, "10:40 AM to 12:00 AM, showered", "I'm just now starting to realize how uneventful most of my life is. I'm motivated to do stuff tomorrow, but we'll see how long that lasts."],
     [[2026, 1, 26], 5, "i forgor to 10:10 PM", "Well, I didn't do as much as I'd hoped, but I probably still did better than I expected. I have some interesting plans for February in the works, and I'll try to warm up for them for these last few days."],
