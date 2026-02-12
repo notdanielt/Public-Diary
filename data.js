@@ -3,7 +3,7 @@ data = [
     [[2026, 2, 8], 5, "i forgor to 10:20 PM", "Uhh, I guess something happened today, but not much. Kinda just ran out of time. Yeah."],
     [[2026, 2, 9], 6, "4:20 AM to 9:50 PM, showered", "Motivation is increasing. I genuinely think I'm getting really close to becoming quite productive. This definitely isn't the first time I've said that, but I believe in this one more than usual. We'll just have to wait and see."],
     [[2026, 2, 10], 5, "6:00 AM to i forgor", "The school day was alright, but I somehow managed to waste every single other hour of the day. It's fine though, I'm almost there."],
-    [[2026, 2, 11], -1, "", ""],
+    [[2026, 2, 11], 3, "6:00 AM to 9:50 PM", "Wait today was actually kinda bad. I guess let's just hope it doesn't happen again or something."],
     [[2026, 2, 12], -1, "", ""],
     [[2026, 2, 13], -1, "", ""],
     [[2026, 2, 14], -1, "", ""],
