@@ -5,7 +5,7 @@ data = [
     [[2026, 2, 10], 5, "6:00 AM to i forgor", "The school day was alright, but I somehow managed to waste every single other hour of the day. It's fine though, I'm almost there."],
     [[2026, 2, 11], 3, "6:00 AM to 9:50 PM", "Wait today was actually kinda bad. I guess let's just hope it doesn't happen again or something."],
     [[2026, 2, 12], 4, "6:00 AM to 9:40 PM", "Today wasn't great either. Tomorrow is when the weekend starts, though, so I'll at least have some freedom to do things then."],
-    [[2026, 2, 13], -1, "", ""],
+    [[2026, 2, 13], 4, "6:00 AM to 7:30 AM + 1:50 PM to 11:50 PM", "Had to skip school for various reasons, mostly because I just wasn't prepared. I do have a weekend to prepare now, though, so uhh yeah."],
     [[2026, 2, 14], -1, "", ""],
     [[2026, 2, 1], 6, "10:20 AM to 10:10 PM", "Welcome to February! I was actually really productive for the first half of the day, but foiled in the second half. This is only the first day though, and I still did enough today to be satisfactory."],
     [[2026, 2, 2], 5, "6:00 AM to 10:10 PM", "Didn't get as much done as I wanted myself to do, but that's to be expected when I put a lot of pressure on myself. Hopefully tomorrow is better (have you noticed I've been trying to not use the word \"hopefully\" in recent entries?)"],
