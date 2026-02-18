@@ -2,7 +2,7 @@
 data = [
     [[2026, 2, 15], 4, "i forgor to 6:10 PM", "I don't really remember much of what I did today. What I know for sure, though, is that not much got done today, and I had to go to sleep very early immediately after trying to do homework."],
     [[2026, 2, 16], 4, "8:10 AM to 10:40 PM", "Well, I finally did a significant amount of homework! That didn't come without its side effects, though. There's also still a lot I need to get done tomorrow..."],
-    [[2026, 2, 17], -1, "", ""],
+    [[2026, 2, 17], 4, "9:20 AM to 10:10 PM", "Started off well, then I did nothing else for the rest of the day. How many times has that happened now?"],
     [[2026, 2, 18], -1, "", ""],
     [[2026, 2, 19], -1, "", ""],
     [[2026, 2, 20], -1, "", ""],
