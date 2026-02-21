@@ -5,7 +5,7 @@ data = [
     [[2026, 2, 17], 4, "9:20 AM to 10:10 PM", "Started off well, then I did nothing else for the rest of the day. How many times has that happened now?"],
     [[2026, 2, 18], 2, "6:00 AM to 9:50 PM", "Pretty much everything went wrong today. I honestly felt like I was dying inside from my mood, and this is the worst day I've had since starting this diary. I hope this doesn't intrude into tomorrow."],
     [[2026, 2, 19], 5, "6:00 AM to 10:00 PM", "Alright, good. Well, today wasn't all that good, but the point is that it wasn't bad. Good enough for now."],
-    [[2026, 2, 20], -1, "", ""],
+    [[2026, 2, 20], 5, "6:00 AM to 10:40 PM, showered", "It was pretty good I guess, too many inconveiences for a 6 though. This weekend could go in any direction..."],
     [[2026, 2, 21], -1, "", ""],
     [[2026, 2, 8], 5, "i forgor to 10:20 PM", "Uhh, I guess something happened today, but not much. Kinda just ran out of time. Yeah."],
     [[2026, 2, 9], 6, "4:20 AM to 9:50 PM, showered", "Motivation is increasing. I genuinely think I'm getting really close to becoming quite productive. This definitely isn't the first time I've said that, but I believe in this one more than usual. We'll just have to wait and see."],
