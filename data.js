@@ -6,7 +6,7 @@ data = [
     [[2026, 2, 18], 2, "6:00 AM to 9:50 PM", "Pretty much everything went wrong today. I honestly felt like I was dying inside from my mood, and this is the worst day I've had since starting this diary. I hope this doesn't intrude into tomorrow."],
     [[2026, 2, 19], 5, "6:00 AM to 10:00 PM", "Alright, good. Well, today wasn't all that good, but the point is that it wasn't bad. Good enough for now."],
     [[2026, 2, 20], 5, "6:00 AM to 10:40 PM, showered", "It was pretty good I guess, too many inconveiences for a 6 though. This weekend could go in any direction..."],
-    [[2026, 2, 21], -1, "", ""],
+    [[2026, 2, 21], 5, "9:50 AM to 11:50 PM", "Another mid day. The word \"mid\" honestly isn't even used that much anymore, I should probably switch back to neutral/average. Also, these descriptions really haven't been fulfulling their purpose of describing the day, just talking about the quality as opposed to the actual events. That's too much effort, though, for something I do right before bed."],
     [[2026, 2, 8], 5, "i forgor to 10:20 PM", "Uhh, I guess something happened today, but not much. Kinda just ran out of time. Yeah."],
     [[2026, 2, 9], 6, "4:20 AM to 9:50 PM, showered", "Motivation is increasing. I genuinely think I'm getting really close to becoming quite productive. This definitely isn't the first time I've said that, but I believe in this one more than usual. We'll just have to wait and see."],
     [[2026, 2, 10], 5, "6:00 AM to i forgor", "The school day was alright, but I somehow managed to waste every single other hour of the day. It's fine though, I'm almost there."],
