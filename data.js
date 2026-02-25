@@ -2,8 +2,8 @@
 data = [
     [[2026, 2, 22], 5, "i forgor to 10:50 PM, showered", "Today was quite a disappointment in almost every regard, but my mood doesn't reflect that, so it still felt like today was normal. Maybe because I disappoint myself every day that isn't at least a 7/10."],
     [[2026, 2, 23], 4, "10:30 AM to 11:40 PM", "I don't really know what I'm doing. I'm just gonna hope that tomorrow is better, I guess."],
-    [[2026, 2, 24], -1, "", ""],
-    [[2026, 2, 25], -1, "", ""],
+    [[2026, 2, 24], 3, "9:50 AM to 7:40 PM", "Happiness is temporary. Sadness is eternal."],
+    [[2026, 2, 25], -1, "i forgor to ???, showered", "don't worry i don't feel like yesterday anymore"],
     [[2026, 2, 26], -1, "", ""],
     [[2026, 2, 27], -1, "", ""],
     [[2026, 2, 28], -1, "", ""],
