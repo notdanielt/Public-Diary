@@ -4,7 +4,7 @@ data = [
     [[2026, 2, 23], 4, "10:30 AM to 11:40 PM", "I don't really know what I'm doing. I'm just gonna hope that tomorrow is better, I guess."],
     [[2026, 2, 24], 3, "9:50 AM to 7:40 PM", "Happiness is temporary. Sadness is eternal."],
     [[2026, 2, 25], 5, "i forgor to 9:50 PM, showered", "Today really didn't matter all that much. I did some things and didn't do other things."],
-    [[2026, 2, 26], -1, "", ""],
+    [[2026, 2, 26], 4, "4:50 AM to 10:00 PM", "I really don't feel like writing this description. It's not a new feeling, either. Basically today was bad blah blah blah hopefully tomorrow is better blah blah blah you get the gist."],
     [[2026, 2, 27], -1, "", ""],
     [[2026, 2, 28], -1, "", ""],
     [[2026, 2, 15], 4, "i forgor to 6:10 PM", "I don't really remember much of what I did today. What I know for sure, though, is that not much got done today, and I had to go to sleep very early immediately after trying to do homework."],
