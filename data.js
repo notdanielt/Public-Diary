@@ -6,7 +6,7 @@ data = [
     [[2026, 2, 25], 5, "i forgor to 9:50 PM, showered", "Today really didn't matter all that much. I did some things and didn't do other things."],
     [[2026, 2, 26], 4, "4:50 AM to 10:00 PM", "I really don't feel like writing this description. It's not a new feeling, either. Basically today was bad blah blah blah hopefully tomorrow is better blah blah blah you get the gist."],
     [[2026, 2, 27], 4, "6:00 AM to 11:50 PM", "Did not go as planned. Like, at all. Not sure what effect this will have in the future."],
-    [[2026, 2, 28], -1, "", ""],
+    [[2026, 2, 28], 6, "i forgor to 11:20 PM, showered", "Very close to a 5, but I'll keep it here since I haven't had a good day in 2 weeks. Uhh, I'm not very motivated to write these entries. New personal best in ToGF is all that really mattered today."],
     [[2026, 2, 15], 4, "i forgor to 6:10 PM", "I don't really remember much of what I did today. What I know for sure, though, is that not much got done today, and I had to go to sleep very early immediately after trying to do homework."],
     [[2026, 2, 16], 4, "8:10 AM to 10:40 PM", "Well, I finally did a significant amount of homework! That didn't come without its side effects, though. There's also still a lot I need to get done tomorrow..."],
     [[2026, 2, 17], 4, "9:20 AM to 10:10 PM", "Started off well, then I did nothing else for the rest of the day. How many times has that happened now?"],
