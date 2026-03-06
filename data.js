@@ -4,7 +4,7 @@ data = [
     [[2026, 3, 2], 6, "6:00 AM to 10:20 PM", "Wait we're kinda cooking here. The second half sort of fell apart, but it always does, and I'll work on that. On the other hand, the first half was beautiful, and it's giving me hope that I can push through and improve as a person sooner rather thann later."],
     [[2026, 3, 3], 5, "i forgor to 9:50 PM", "Aside from a certain... discovery, today wasn't anything to write home about. The school day was cancelled, but I didn't make much use of the extra time that gave me. There were just a lot of disctractions."],
     [[2026, 3, 4], 1, "6:00 AM to 10:10 PM", "\"The school day is shortened! It can't be that bad!\"\n\nFamous last words."],
-    [[2026, 3, 5], -1, "", ""],
+    [[2026, 3, 5], 5, "i forgor to 9:50 PM", "Other than a ToGF run, nothing much happened today. I was looking to get more use out of skipping school today, but whatever, there's only 1 more day of the week left. Surely it won't be as horrible as yesterday, right?"],
     [[2026, 3, 6], -1, "", ""],
     [[2026, 3, 7], -1, "", ""],
     [[2026, 2, 22], 5, "i forgor to 10:50 PM, showered", "Today was quite a disappointment in almost every regard, but my mood doesn't reflect that, so it still felt like today was normal. Maybe because I disappoint myself every day that isn't at least a 7/10."],
