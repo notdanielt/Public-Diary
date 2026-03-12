@@ -3,7 +3,7 @@ data = [
     [[2026, 3, 8], 7, "10:20 AM to 10:10 PM, showered", "I beat ToGF!!! Nothing much else happened in the day though, it was all just celebration. Not to say that today was bad by any means."],
     [[2026, 3, 9], 5, "6:40 AM to 10:20 PM", "I really need to start being productive. I'm almost there."],
     [[2026, 3, 10], 5, "6:00 AM to 10:30 PM", "Ups and downs, cancels out to neutral. I was right about being almost there, I did quite a bit more than usual, but still not enough. The next few days are all half days, so that probably means they'll be fine... then again, March 4 happened."],
-    [[2026, 3, 11], -1, "", ""],
+    [[2026, 3, 11], 6, "6:00 AM to 10:30 PM, showered", "Slowly, it's getting better. Don't have the time to write anything else here."],
     [[2026, 3, 12], -1, "", ""],
     [[2026, 3, 14], -1, "", ""],
     [[2026, 3, 1], 5, "i forgor to 10:00 PM", "It's March now! ...Yeah, that's kinda it. I need to pull things together at some point."],
