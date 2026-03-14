@@ -5,7 +5,7 @@ data = [
     [[2026, 3, 10], 5, "6:00 AM to 10:30 PM", "Ups and downs, cancels out to neutral. I was right about being almost there, I did quite a bit more than usual, but still not enough. The next few days are all half days, so that probably means they'll be fine... then again, March 4 happened."],
     [[2026, 3, 11], 6, "6:00 AM to 10:30 PM, showered", "Slowly, it's getting better. Don't have the time to write anything else here."],
     [[2026, 3, 12], 5, "6:00 AM to 9:50 PM", "Similar to ereyesterday. I don't feel like repeating myself, so basically let's just see how tomorrow goes, being the last day of the school week."],
-    [[2026, 3, 13], 5, "6:00 AM to 10:20 PM", "Basically just neutral. I'm kinda surprised I've had no bad days since the March 4 incident, so that's cool. Hoping to do a lot this weekend."],
+    [[2026, 3, 13], 5, "6:00 AM to 10:30 PM", "Basically just neutral. I'm kinda surprised I've had no bad days since the March 4 incident, so that's cool. Hoping to do a lot this weekend."],
     [[2026, 3, 1], 5, "i forgor to 10:00 PM", "It's March now! ...Yeah, that's kinda it. I need to pull things together at some point."],
     [[2026, 3, 2], 6, "6:00 AM to 10:20 PM", "Wait we're kinda cooking here. The second half sort of fell apart, but it always does, and I'll work on that. On the other hand, the first half was beautiful, and it's giving me hope that I can push through and improve as a person sooner rather thann later."],
     [[2026, 3, 3], 5, "i forgor to 9:50 PM", "Aside from a certain... discovery, today wasn't anything to write home about. The school day was cancelled, but I didn't make much use of the extra time that gave me. There were just a lot of disctractions."],
