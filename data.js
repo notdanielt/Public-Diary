@@ -4,7 +4,7 @@ data = [
     [[2026, 3, 16], 6, "6:00 AM to 9:40 PM, showered", "Tomorrow, I am 15. Honestly went very similar to yesterday, but that's fine. I'm not sure what else to say, but... a new age is about to begin."],
     [[2026, 3, 17], 6, "6:00 AM to 10:20 PM", "15"],
     [[2026, 3, 18], 4, "6:00 AM to 9:50 PM", "Nevermind guys, just because I'm 15 doesn't mean I've suddenly fixed all of my problems. Who could've saw that coming?"],
-    [[2026, 3, 19], -1, "", ""],
+    [[2026, 3, 19], 4, "6:00 AM to 9:50 PM", "Basically the exact same as yesterday. I have to break this cycle."],
     [[2026, 3, 20], -1, "", ""],
     [[2026, 3, 21], -1, "", ""],
     [[2026, 3, 8], 7, "10:20 AM to 10:10 PM, showered", "I beat ToGF!!! Nothing much else happened in the day though, it was all just celebration. Not to say that today was bad by any means."],
