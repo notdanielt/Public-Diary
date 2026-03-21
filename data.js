@@ -5,7 +5,7 @@ data = [
     [[2026, 3, 17], 6, "6:00 AM to 10:20 PM", "15"],
     [[2026, 3, 18], 4, "6:00 AM to 9:50 PM", "Nevermind guys, just because I'm 15 doesn't mean I've suddenly fixed all of my problems. Who could've saw that coming?"],
     [[2026, 3, 19], 4, "6:00 AM to 9:50 PM", "Basically the exact same as yesterday. I have to break this cycle."],
-    [[2026, 3, 20], -1, "", ""],
+    [[2026, 3, 20], 5, "6:00 AM to 11:30 PM", "Ok, so the week's over now, and I can take a little break... no I can't, I have an absurd amount of homework that has prevented me from truly feeling confortable at any point in time within the past month."],
     [[2026, 3, 21], -1, "", ""],
     [[2026, 3, 8], 7, "10:20 AM to 10:10 PM, showered", "I beat ToGF!!! Nothing much else happened in the day though, it was all just celebration. Not to say that today was bad by any means."],
     [[2026, 3, 9], 5, "6:40 AM to 10:20 PM", "I really need to start being productive. I'm almost there."],
