@@ -6,7 +6,7 @@ data = [
     [[2026, 3, 18], 4, "6:00 AM to 9:50 PM", "Nevermind guys, just because I'm 15 doesn't mean I've suddenly fixed all of my problems. Who could've saw that coming?"],
     [[2026, 3, 19], 4, "6:00 AM to 9:50 PM", "Basically the exact same as yesterday. I have to break this cycle."],
     [[2026, 3, 20], 5, "6:00 AM to 11:30 PM", "Ok, so the week's over now, and I can take a little break... no I can't, I have an absurd amount of homework that has prevented me from truly feeling confortable at any point in time within the past month."],
-    [[2026, 3, 21], -1, "", ""],
+    [[2026, 3, 21], 5, "8:10 AM to 10:50 PM, showered?", "I did some miscellaneous stuff today, but unfortunately none of it involved being productive. I would say that's alright but we're kinda running out of time here..."],
     [[2026, 3, 8], 7, "10:20 AM to 10:10 PM, showered", "I beat ToGF!!! Nothing much else happened in the day though, it was all just celebration. Not to say that today was bad by any means."],
     [[2026, 3, 9], 5, "6:40 AM to 10:20 PM", "I really need to start being productive. I'm almost there."],
     [[2026, 3, 10], 5, "6:00 AM to 10:30 PM", "Ups and downs, cancels out to neutral. I was right about being almost there, I did quite a bit more than usual, but still not enough. The next few days are all half days, so that probably means they'll be fine... then again, March 4 happened."],
