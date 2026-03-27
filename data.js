@@ -4,7 +4,7 @@ data = [
     [[2026, 3, 23], 4, "6:00 AM to 10:00 PM, showered", "School day was bad, things got better at home. I'm not exactly sure where my life is going at this point, I'm just hoping it's going in a good direction."],
     [[2026, 3, 24], 6, "6:00 AM to 9:40 PM", "Alright, I've got everything figured out. I can do this. Progress is being made. We're almost there. Insert more motivational phrases or something."],
     [[2026, 3, 25], 6, "6:00 AM to 10:10 PM", "Insert the same thing as yesterday. But seriously, I'm really glad that I'm not just making progress, but I'm CONSISTENTLY making progress. That's the thing I'm actually proud about. I make progress all the time, but it doesn't matter all that much if I reverse it soon after. That's not the case this time."],
-    [[2026, 3, 26], -1, "", ""],
+    [[2026, 3, 26], 5, "6:00 AM to 10:10 PM", "Wasn't as good, but at least it wasn't bad. Tomorrow is Friday, hopefully I can get a lot done during the weekend."],
     [[2026, 3, 27], -1, "", ""],
     [[2026, 3, 28], -1, "", ""],
     [[2026, 3, 15], 5, "10:50 AM to 9:40 PM", "The penultimate day of being 14... really wasn't that special. I tried to get a lot done, and I had a good start, but everything eventually fell apart. I'll make sure to not do the same for tomorrow."],
