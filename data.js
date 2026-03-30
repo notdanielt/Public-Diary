@@ -1,5 +1,12 @@
 //NOTE: This list is ordered inversely by week, but normally within each week. This is to show the most recent weeks at the top, so you don't have to scroll down to see recent activity.
 data = [
+    [[2026, 3, 29], 5, "9:50 AM to 10:00 PM, showered", "I was planning on being productive today, but it only partially went through. A lot of time was wasted and I started to feel sick at around 6 PM. Not sure how tomorrow will go."],
+    [[2026, 3, 30], -1, "", ""],
+    [[2026, 3, 31], -1, "", ""],
+    [[2026, 4, 1], -1, "", "fooled"],
+    [[2026, 4, 2], -1, "", ""],
+    [[2026, 4, 3], -1, "", ""],
+    [[2026, 4, 4], -1, "", ""],
     [[2026, 3, 22], 6, "11:00 AM to 9:50 PM", "Finally, I actually did something! It wasn't as much as I'd hoped for, but it's a good start. I'm not sure how long this victory will last, though."],
     [[2026, 3, 23], 4, "6:00 AM to 10:00 PM, showered", "School day was bad, things got better at home. I'm not exactly sure where my life is going at this point, I'm just hoping it's going in a good direction."],
     [[2026, 3, 24], 6, "6:00 AM to 9:40 PM", "Alright, I've got everything figured out. I can do this. Progress is being made. We're almost there. Insert more motivational phrases or something."],
