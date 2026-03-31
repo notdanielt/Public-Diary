@@ -1,7 +1,7 @@
 //NOTE: This list is ordered inversely by week, but normally within each week. This is to show the most recent weeks at the top, so you don't have to scroll down to see recent activity.
 data = [
     [[2026, 3, 29], 5, "9:50 AM to 10:00 PM, showered", "I was planning on being productive today, but it only partially went through. A lot of time was wasted and I started to feel sick at around 6 PM. Not sure how tomorrow will go."],
-    [[2026, 3, 30], -1, "", ""],
+    [[2026, 3, 30], 5, "i forgor to 10:10 PM", "Didn't go to school due to the sickness I mentioned yesterday. I also didn't get anything done today despite getting better in the afternoon."],
     [[2026, 3, 31], -1, "", ""],
     [[2026, 4, 1], -1, "", "fooled"],
     [[2026, 4, 2], -1, "", ""],
