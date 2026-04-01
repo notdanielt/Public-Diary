@@ -2,7 +2,7 @@
 data = [
     [[2026, 3, 29], 5, "9:50 AM to 10:00 PM, showered", "I was planning on being productive today, but it only partially went through. A lot of time was wasted and I started to feel sick at around 6 PM. Not sure how tomorrow will go."],
     [[2026, 3, 30], 5, "i forgor to 10:10 PM", "Didn't go to school due to the sickness I mentioned yesterday. I also didn't get anything done today despite getting better in the afternoon."],
-    [[2026, 3, 31], -1, "", ""],
+    [[2026, 3, 31], 4, "6:00 AM to 9:50 PM", "Rounding off March, I'm not sure what to think. For now, I'll probably just keep on trying to improve like I have been."],
     [[2026, 4, 1], -1, "", "fooled"],
     [[2026, 4, 2], -1, "", ""],
     [[2026, 4, 3], -1, "", ""],
