@@ -4,7 +4,7 @@ data = [
     [[2026, 3, 30], 5, "i forgor to 10:10 PM", "Didn't go to school due to the sickness I mentioned yesterday. I also didn't get anything done today despite getting better in the afternoon."],
     [[2026, 3, 31], 4, "6:00 AM to 9:50 PM", "Rounding off March, I'm not sure what to think. For now, I'll probably just keep on trying to improve like I have been."],
     [[2026, 4, 1], 5, "6:00 AM to 10:40 PM", "Didn't have any April Fools plans. However, I did have plans to do a significant amount of homework today, and you'll never guess what happened."],
-    [[2026, 4, 2], -1, "", ""],
+    [[2026, 4, 2], 5, "6:00 AM to 10:30 PM", "Same as yesterday, basically. I guess some other stuff happened but it's not too important to mention. I don't have school tomorrow, though, which means it's the weekend now! This is my chance."],
     [[2026, 4, 3], -1, "", ""],
     [[2026, 4, 4], -1, "", ""],
     [[2026, 3, 22], 6, "11:00 AM to 9:50 PM", "Finally, I actually did something! It wasn't as much as I'd hoped for, but it's a good start. I'm not sure how long this victory will last, though."],
