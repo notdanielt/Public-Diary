@@ -6,7 +6,7 @@ data = [
     [[2026, 4, 1], 5, "6:00 AM to 10:40 PM", "Didn't have any April Fools plans. However, I did have plans to do a significant amount of homework today, and you'll never guess what happened."],
     [[2026, 4, 2], 5, "6:00 AM to 10:30 PM", "Same as yesterday, basically. I guess some other stuff happened but it's not too important to mention. I don't have school tomorrow, though, which means it's the weekend now! This is my chance."],
     [[2026, 4, 3], 6, "9:00 AM to 11:50 PM, showered", "Wait, I actually did something today. I still hoped to do more but we'll take whatever we can get. Anything could happen tomorrow."],
-    [[2026, 4, 4], -1, "", ""],
+    [[2026, 4, 4], 4, "8:20 AM to 10:00 PM", "Well, today was a waste. It's not like I HAD to do anything today but it still would've been nice to get some things done, but I guess not. I'd really rather have tomorrow go better than today did."],
     [[2026, 3, 22], 6, "11:00 AM to 9:50 PM", "Finally, I actually did something! It wasn't as much as I'd hoped for, but it's a good start. I'm not sure how long this victory will last, though."],
     [[2026, 3, 23], 4, "6:00 AM to 10:00 PM, showered", "School day was bad, things got better at home. I'm not exactly sure where my life is going at this point, I'm just hoping it's going in a good direction."],
     [[2026, 3, 24], 6, "6:00 AM to 9:40 PM", "Alright, I've got everything figured out. I can do this. Progress is being made. We're almost there. Insert more motivational phrases or something."],
