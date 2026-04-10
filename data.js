@@ -4,7 +4,7 @@ data = [
     [[2026, 4, 6], 5, "6:00 AM to 10:10 PM", "Similar to yesterday, not sure what else to say. It's genuinely almost impossible to not repeat something I've already said in an earlier entry."],
     [[2026, 4, 7], 3, "6:00 AM to 11:20 PM", "Yet another crash. My obsession with my grades led me to going home early to scream in the basement about my Biology grade for the quarter being an F, although it was mainly because of the reasons it was an F as opposed to the fact that it was an F. There's only 2 more days left that can influence this grade in any way. I have no ides what tomorrow will be like."],
     [[2026, 4, 8], 3, "6:00 AM to 11:10 PM", "Yesterday, but again."],
-    [[2026, 4, 9], 5, "6:00 AM to 11:20 PM", "Alright, we're finally almost done. Tomorrow is the last day before spring break, and I won't have to worry about anything that's happened in the past few months. It's time for a new beginning... probably."],
+    [[2026, 4, 9], 5, "6:00 AM to 11:30 PM", "Alright, we're finally almost done. Tomorrow is the last day before spring break, and I won't have to worry about anything that's happened in the past few months. It's time for a new beginning... probably."],
     [[2026, 4, 10], -1, "", ""],
     [[2026, 4, 11], -1, "", ""],
     [[2026, 3, 29], 5, "9:50 AM to 10:00 PM, showered", "I was planning on being productive today, but it only partially went through. A lot of time was wasted and I started to feel sick at around 6 PM. Not sure how tomorrow will go."],
