@@ -2,7 +2,7 @@
 data = [
     [[2026, 4, 12], 5, "i forgor to 10:10 PM", "Well, I did basically nothing today. That's not too bad, though, I'm on break after all. But seriously I'm going to be productive tomorrow."],
     [[2026, 4, 13], 4, "i forgor to 11:50 PM", "This isn't going according to plan... don't feel like writing much right now."],
-    [[2026, 4, 14], -1, "", ""],
+    [[2026, 4, 14], 5, "10:30 AM to 9:50 PM, showered", "Ehh, nothing of value happened today. A few things were a little different I guess, but that's about it. I really hope tomorrow I can do something though."],
     [[2026, 4, 15], -1, "", ""],
     [[2026, 4, 16], -1, "", ""],
     [[2026, 4, 17], -1, "", ""],
