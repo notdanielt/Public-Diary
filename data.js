@@ -5,7 +5,7 @@ data = [
     [[2026, 4, 14], 5, "10:30 AM to 9:50 PM, showered", "Ehh, nothing of value happened today. A few things were a little different I guess, but that's about it. I really hope tomorrow I can do something though."],
     [[2026, 4, 15], 5, "8:00 AM to 11:30 PM", "Well, I did something, but this still isn't exactly what I'm looking for. I have the entire day, I should be able to do more than what I'm currently doing. It's fine though, my situation isn't urgent."],
     [[2026, 4, 16], 4, "2:30 PM to 1:30 AM", "Yikes, today did not go very well. It's hard to not repeat myself at this point, though. Waking up at 2:30 PM definitely didn't make things any better. Time is actually starting to run out though."],
-    [[2026, 4, 17], -1, "", ""],
+    [[2026, 4, 17], 5, "i forgor to 11:40 PM", "Alright, things are slowly getting better. I did homework in the morning today, but nothing else. We're making progress, at least. I'm going to make sure I make more progress tomorrow as well."],
     [[2026, 4, 18], -1, "", ""],
     [[2026, 4, 5], 5, "8:00 AM to 10:10 PM, showered", "I'm not sure what to think about today. Yes, I did get something done, but I still wanted to do more. I guess that's all I can really ask for. Let's see what this new week brings upon me."],
     [[2026, 4, 6], 5, "6:00 AM to 10:10 PM", "Similar to yesterday, not sure what else to say. It's genuinely almost impossible to not repeat something I've already said in an earlier entry."],
