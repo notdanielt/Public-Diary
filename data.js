@@ -3,7 +3,7 @@ data = [
     [[2026, 4, 26], 3, "i forgor to 6:20 PM + 10:30 PM to 1:50 AM", "After all that happened today, the fact that this only qualifies for a 3/10 says something about how my life is going right now."],
     [[2026, 4, 27], 3, "4:20 PM to 10:50 PM", "I don't know what I'm doing anymore. I feel like I can't make any permanent progress. When was the last time I was even somewhat productive 2 days in a row?"],
     [[2026, 4, 28], 4, "6:00 AM to 10:20 PM", "Ok sure I guess today was better but it still really wasn't all that good. Every time I try to do homework I just suddenly get really tired. Something needs to change."],
-    [[2026, 4, 29], -1, "", ""],
+    [[2026, 4, 29], 4, "6:00 AM to 10:00 PM", "I am not making any progress. I better at least be concave up or we're gonna have a problem."],
     [[2026, 4, 30], -1, "", ""],
     [[2026, 5, 1], -1, "", ""],
     [[2026, 5, 2], -1, "", ""],
