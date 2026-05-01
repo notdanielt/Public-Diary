@@ -4,7 +4,7 @@ data = [
     [[2026, 4, 27], 3, "4:20 PM to 10:50 PM", "I don't know what I'm doing anymore. I feel like I can't make any permanent progress. When was the last time I was even somewhat productive 2 days in a row?"],
     [[2026, 4, 28], 4, "6:00 AM to 10:20 PM", "Ok sure I guess today was better but it still really wasn't all that good. Every time I try to do homework I just suddenly get really tired. Something needs to change."],
     [[2026, 4, 29], 4, "6:00 AM to 10:00 PM", "I am not making any progress. I better at least be concave up or we're gonna have a problem."],
-    [[2026, 4, 30], -1, "", ""],
+    [[2026, 4, 30], 4, "6:00 AM to 10:40 PM", "It's all the same. No progress."],
     [[2026, 5, 1], -1, "", ""],
     [[2026, 5, 2], -1, "", ""],
     [[2026, 4, 19], 5, "10:50 AM to 10:10 PM, showered", "Yeah, nothing really happened today. I don't like being under pressure and I couldn't bring myself to do anything more than a shower. I really hope this doesn't have any adverse effects."],
