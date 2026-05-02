@@ -5,7 +5,7 @@ data = [
     [[2026, 4, 28], 4, "6:00 AM to 10:20 PM", "Ok sure I guess today was better but it still really wasn't all that good. Every time I try to do homework I just suddenly get really tired. Something needs to change."],
     [[2026, 4, 29], 4, "6:00 AM to 10:00 PM", "I am not making any progress. I better at least be concave up or we're gonna have a problem."],
     [[2026, 4, 30], 4, "6:00 AM to 10:40 PM", "It's all the same. No progress."],
-    [[2026, 5, 1], -1, "", ""],
+    [[2026, 5, 1], 5, "6:00 AM to 12:20 PM", "Fine, maybe today wasn't all that bad. I needed a break from so many back to back bad days anyway. Although, it's obvious at this point that I can't really say if anything will happen in the coming days. This phase's title is what it is for a reason."],
     [[2026, 5, 2], -1, "", ""],
     [[2026, 4, 19], 5, "10:50 AM to 10:10 PM, showered", "Yeah, nothing really happened today. I don't like being under pressure and I couldn't bring myself to do anything more than a shower. I really hope this doesn't have any adverse effects."],
     [[2026, 4, 20], 5, "6:00 AM to 10:20 PM", "Well, I was able to start doing homework, but I didn't really do much. I'm getting sick of all of these \"improvements\" that only last for a day, at some point I have to make real progress that isn't immediately reversed the day after. Tomorrow may not be the day, but it better be within the next few weeks."],
