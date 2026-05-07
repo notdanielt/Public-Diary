@@ -2,8 +2,8 @@
 data = [
     [[2026, 5, 3], 4, "8:00 AM to 9:50 PM", "...Just as I expected. Just as yesterday went. Just as the day before that went. Just as the day before that went. Just as—you get the point, I'm not turning this into a copypasta."],
     [[2026, 5, 4], 5, "6:00 AM to 10:10 PM", "Ups and downs today, nothing important happened though. It's kindof a slog to write these sometimes, that's why they're usually pretty short."],
-    [[2026, 5, 5], 5, "6:00 AM to 10:30 PM", "Basically the same as yesterday. Life is boring sometimes. It's better than suffering, but it's still not exactly satisfactory."],
-    [[2026, 5, 6], -1, "", ""],
+    [[2026, 5, 5], 5, "5:30 AM to 10:30 PM", "Basically the same as yesterday. Life is boring sometimes. It's better than suffering, but it's still not exactly satisfactory."],
+    [[2026, 5, 6], 5, "6:00 AM to 10:40 PM", "I'm probably not going to rate a day 6/10 until I do at least something useful. I would say this is getting out of hand, but it already has been for a while now. Will tomorrow be the day to finally end the streak? Probably not... but let's find out!"],
     [[2026, 5, 7], -1, "", ""],
     [[2026, 5, 8], -1, "", ""],
     [[2026, 5, 9], -1, "", ""],
