@@ -2,7 +2,7 @@
 data = [
     [[2026, 5, 10], 5, "i forgor", "More inconsequential than I'd hoped for, but it could've gone worse."],
     [[2026, 5, 11], 5, "3:30 AM to 10:20 PM", "Even though today was actually very important, it honestly didn't feel like it was. Maybe because there's not really any uncertainty."],
-    [[2026, 5, 12], -1, "", ""],
+    [[2026, 5, 12], 3, "1:50 PM to 10:20 PM", "Don't forget to set your alarm."],
     [[2026, 5, 13], -1, "", ""],
     [[2026, 5, 14], -1, "", ""],
     [[2026, 5, 15], -1, "", ""],
