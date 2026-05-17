@@ -6,7 +6,7 @@ data = [
     [[2026, 5, 13], 5, "6:00 AM to 10:30 PM", "Nothing much is changing. Stuff is probably happening behind the scenes but any possible effects haven't appeared yet."],
     [[2026, 5, 14], 5, "6:00 AM to 10:20 PM", "I'm probably subconsciously improving in some way, but again, it hasn't changed what I'm actually doing."],
     [[2026, 5, 15], 4, "6:00 AM to 10:20 PM", "Skipped school due to tiredness. Basically nothing happened in the rest of the day."],
-    [[2026, 5, 16], -1, "", ""],
+    [[2026, 5, 16], 4, "10:20 AM to 11:00 PM", "Pretty much nothing happened today. Wow, I've been saying basically the same thing every day for a while now, haven't I? Hopefully things will change soon."],
     [[2026, 5, 3], 4, "8:00 AM to 9:50 PM", "...Just as I expected. Just as yesterday went. Just as the day before that went. Just as the day before that went. Just as—you get the point, I'm not turning this into a copypasta."],
     [[2026, 5, 4], 5, "6:00 AM to 10:10 PM", "Ups and downs today, nothing important happened though. It's kindof a slog to write these sometimes, that's why they're usually pretty short."],
     [[2026, 5, 5], 5, "5:30 AM to 10:30 PM", "Basically the same as yesterday. Life is boring sometimes. It's better than suffering, but it's still not exactly satisfactory."],
