@@ -1,5 +1,12 @@
 //NOTE: This list is ordered inversely by week, but normally within each week. This is to show the most recent weeks at the top, so you don't have to scroll down to see recent activity.
 data = [
+    [[2026, 5, 17], 5, "10:00 AM to 10:00 PM", "Huh, things actually started to happen today. It's still not what I'm looking for, but it's a start. Then again, how many times have I thought this exact same thing only for tomorrow to erase today's progress?"],
+    [[2026, 5, 18], -1, "", ""],
+    [[2026, 5, 19], -1, "", ""],
+    [[2026, 5, 20], -1, "", ""],
+    [[2026, 5, 21], -1, "", ""],
+    [[2026, 5, 22], -1, "", ""],
+    [[2026, 5, 23], -1, "", ""],
     [[2026, 5, 10], 5, "i forgor", "More inconsequential than I'd hoped for, but it could've gone worse."],
     [[2026, 5, 11], 5, "3:30 AM to 10:20 PM", "Even though today was actually very important, it honestly didn't feel like it was. Maybe because there's not really any uncertainty."],
     [[2026, 5, 12], 3, "1:50 PM to 10:20 PM", "Don't forget to set your alarm."],
@@ -8,7 +15,7 @@ data = [
     [[2026, 5, 15], 4, "6:00 AM to 10:20 PM", "Skipped school due to tiredness. Basically nothing happened in the rest of the day."],
     [[2026, 5, 16], 4, "10:20 AM to 11:40 PM", "Pretty much nothing happened today. Wow, I've been saying basically the same thing every day for a while now, haven't I? Hopefully things will change soon."],
     [[2026, 5, 3], 4, "8:00 AM to 9:50 PM", "...Just as I expected. Just as yesterday went. Just as the day before that went. Just as the day before that went. Just as—you get the point, I'm not turning this into a copypasta."],
-    [[2026, 5, 4], 5, "6:00 AM to 10:10 PM", "Ups and downs today, nothing important happened though. It's kindof a slog to write these sometimes, that's why they're usually pretty short."],
+    [[2026, 5, 4], 5, "6:00 AM to 10:10 PM", "Ups and downs today, nothing important happened though. It's kind of a slog to write these sometimes, that's why they're usually pretty short."],
     [[2026, 5, 5], 5, "5:30 AM to 10:30 PM", "Basically the same as yesterday. Life is boring sometimes. It's better than suffering, but it's still not exactly satisfactory."],
     [[2026, 5, 6], 5, "6:00 AM to 10:50 PM", "I'm probably not going to rate a day 6/10 until I do at least something useful. I would say this is getting out of hand, but it already has been for a while now. Will tomorrow be the day to finally end the streak? Probably not... but let's find out!"],
     [[2026, 5, 7], 3, "i forgor", "Couldn't go to school today. I just couldn't."],
