@@ -2,7 +2,7 @@
 data = [
     [[2026, 5, 17], 5, "10:00 AM to 10:00 PM", "Huh, things actually started to happen today. It's still not what I'm looking for, but it's a start. Then again, how many times have I thought this exact same thing only for tomorrow to erase today's progress?"],
     [[2026, 5, 18], 5, "6:00 AM to 10:10 PM", "Wait... it wasn't a one-off thing. Something is actually happening. Motivation is increasing, and fast."],
-    [[2026, 5, 19], -1, "", ""],
+    [[2026, 5, 19], 4, "6:00 AM to i forgor + i forgor to 9:40 PM", "I can't keep skipping school just because I'm a little tired. I'm going to bed slightly earlier today, normally this doesn't make much of a difference but to wake up at 6:00 AM I need to be asleep by 10:30 PM to get all the sleep cycles I want, and it takes a while for me to drift to sleep when I go to bed..."],
     [[2026, 5, 20], -1, "", ""],
     [[2026, 5, 21], -1, "", ""],
     [[2026, 5, 22], -1, "", ""],
