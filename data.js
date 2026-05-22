@@ -4,7 +4,7 @@ data = [
     [[2026, 5, 18], 5, "6:00 AM to 10:10 PM", "Wait... it wasn't a one-off thing. Something is actually happening. Motivation is increasing, and fast."],
     [[2026, 5, 19], 4, "6:00 AM to i forgor + i forgor to 9:40 PM", "I can't keep skipping school just because I'm a little tired. I'm going to bed slightly earlier today, normally this doesn't make much of a difference but to wake up at 6:00 AM I need to be asleep by 10:30 PM to get all the sleep cycles I want, and it takes a while for me to drift to sleep when I go to bed..."],
     [[2026, 5, 20], 5, "6:00 AM to 10:10 PM", "1 of the 4 hurdles has been circumvented. 2 more to go."],
-    [[2026, 5, 21], -1, "", ""],
+    [[2026, 5, 21], 4, "6:00 AM to 10:00 PM", "Good news: another hurdle has been dealt with! Bad news: i skipped school YET AGAIN!!!!!!!!!! bro can i actually stop"],
     [[2026, 5, 22], -1, "", ""],
     [[2026, 5, 23], -1, "", ""],
     [[2026, 5, 10], 5, "i forgor", "More inconsequential than I'd hoped for, but it could've gone worse."],
