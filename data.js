@@ -5,7 +5,7 @@ data = [
     [[2026, 5, 19], 4, "6:00 AM to i forgor + i forgor to 9:40 PM", "I can't keep skipping school just because I'm a little tired. I'm going to bed slightly earlier today, normally this doesn't make much of a difference but to wake up at 6:00 AM I need to be asleep by 10:30 PM to get all the sleep cycles I want, and it takes a while for me to drift to sleep when I go to bed..."],
     [[2026, 5, 20], 5, "6:00 AM to 10:10 PM", "1 of the 4 hurdles has been circumvented. 2 more to go."],
     [[2026, 5, 21], 4, "6:00 AM to 10:00 PM", "Good news: another hurdle has been dealt with! Bad news: i skipped school YET AGAIN!!!!!!!!!! bro can i actually stop"],
-    [[2026, 5, 22], -1, "", ""],
+    [[2026, 5, 22], 3, "6:00 AM to 11:50 PM", "Yeah no, I'm just not getting anything done anymore. That's unfortunate. Not sure what else to say."],
     [[2026, 5, 23], -1, "", ""],
     [[2026, 5, 10], 5, "i forgor", "More inconsequential than I'd hoped for, but it could've gone worse."],
     [[2026, 5, 11], 5, "3:30 AM to 10:20 PM", "Even though today was actually very important, it honestly didn't feel like it was. Maybe because there's not really any uncertainty."],
