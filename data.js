@@ -6,7 +6,7 @@ data = [
     [[2026, 5, 20], 5, "6:00 AM to 10:10 PM", "1 of the 4 hurdles has been circumvented. 2 more to go."],
     [[2026, 5, 21], 4, "6:00 AM to 10:00 PM", "Good news: another hurdle has been dealt with! Bad news: i skipped school YET AGAIN!!!!!!!!!! bro can i actually stop"],
     [[2026, 5, 22], 3, "6:00 AM to 11:50 PM", "Yeah no, I'm just not getting anything done anymore. That's unfortunate. Not sure what else to say."],
-    [[2026, 5, 23], 6, "11:00 AM to 11:20 PM, showered", "Let ignore how long it's been since my last shower and focus on the fact thattoday was actually good! Progress is slow, and I wish it were faster, but at least it's happening."],
+    [[2026, 5, 23], 6, "11:00 AM to 11:20 PM, showered", "Let ignore how long it's been since my last shower and focus on the fact that today was actually good! Progress is slow, and I wish it were faster, but at least it's happening."],
     [[2026, 5, 10], 5, "i forgor", "More inconsequential than I'd hoped for, but it could've gone worse."],
     [[2026, 5, 11], 5, "3:30 AM to 10:20 PM", "Even though today was actually very important, it honestly didn't feel like it was. Maybe because there's not really any uncertainty."],
     [[2026, 5, 12], 3, "1:50 PM to 10:20 PM", "Don't forget to set your alarm."],
